@@ -1,0 +1,51 @@
+\documentclass[onehalfspacing,final,12pt,a4paper,oneside]{YasarThesis}
+
+\input{__preamble}
+\input{__credentials}
+
+\begin{document}
+% 	\cleardoublepage
+% 	\addcontentsline{toc}{section}{List of Figures}
+% 	\listoffigures
+% 	\cleardoublepage
+% 	\addcontentsline{toc}{section}{List of Codes}
+% 	\lstlistoflistings
+% 	\cleardoublepage
+ 
+	\chapter{Project Statement}\label{ch:Statement}
+	\input{_ch-Statement}
+	 
+%	\chapter{Mathematical Background}\label{ch:Mathematical}
+%	\input{_ch-Mathematical}
+	
+	\chapter{Elliptic Curve Method}\label{ch:Elliptic}
+	\input{_ch-Elliptic}
+	
+	\chapter{Introduction to GMP}\label{ch:GMP}
+	\input{_ch-GMP}
+	
+	\chapter{Implementation}\label{ch:Implementation}
+	\input{_ch-Implementation}
+
+	\chapter{Methodology and Results}\label{ch:Methodology}
+	\input{_ch-Methodology}
+
+	\chapter{Testing}\label{ch:Testing}
+	\input{_ch-Testing}
+
+	\chapter{Evaluation, Conclusion and Future work}\label{ch:Conclusion}
+	\input{_ch-Conclusion}
+	
+	\cite{*}
+	
+	\addcontentsline{toc}{chapter}{Appendix}
+	\appendix
+  	\chapter{~}
+  	\vspace{-30mm}
+	\input{_ch-Appendix}
+	
+	\backmatter\addcontentsline{toc}{chapter}{Bibliography}
+	\bibliographystyle{abbrv} % Alternatif stiller: amsalpha, plain
+	\bibliography{references}
+	
+\end{document}

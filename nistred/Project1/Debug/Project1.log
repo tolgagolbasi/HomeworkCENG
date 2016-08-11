@@ -1,0 +1,29 @@
+﻿Build started 28.11.2013 13:59:24.
+     1>Project "c:\Users\tolgag\documents\visual studio 2013\Projects\Project1\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         E:\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\Users\tolgag\documents\visual studio 2013\Projects\Project1\Debug\nistred.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\AMD APP SDK\2.9\\lib\x86_64" OpenCL.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\Users\tolgag\documents\visual studio 2013\Projects\Project1\Debug\nistred.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\Users\tolgag\documents\visual studio 2013\Projects\Project1\Debug\nistred.lib" /MACHINE:X86 Debug\Source.obj
+     1>Source.obj : error LNK2019: unresolved external symbol _clGetPlatformIDs@12 referenced in function "void __cdecl AddLow(unsigned int *,unsigned int *,unsigned int *)" (?AddLow@@YAXPAI00@Z)
+     1>Source.obj : error LNK2019: unresolved external symbol _clGetPlatformInfo@20 referenced in function "void __cdecl AddLow(unsigned int *,unsigned int *,unsigned int *)" (?AddLow@@YAXPAI00@Z)
+     1>Source.obj : error LNK2019: unresolved external symbol _clGetDeviceInfo@20 referenced in function "void __cdecl AddLow(unsigned int *,unsigned int *,unsigned int *)" (?AddLow@@YAXPAI00@Z)
+     1>Source.obj : error LNK2019: unresolved external symbol _clCreateContextFromType@24 referenced in function "void __cdecl AddLow(unsigned int *,unsigned int *,unsigned int *)" (?AddLow@@YAXPAI00@Z)
+     1>Source.obj : error LNK2019: unresolved external symbol _clReleaseContext@4 referenced in function "void __cdecl AddLow(unsigned int *,unsigned int *,unsigned int *)" (?AddLow@@YAXPAI00@Z)
+     1>Source.obj : error LNK2019: unresolved external symbol _clGetContextInfo@20 referenced in function "void __cdecl AddLow(unsigned int *,unsigned int *,unsigned int *)" (?AddLow@@YAXPAI00@Z)
+     1>Source.obj : error LNK2019: unresolved external symbol _clCreateCommandQueue@20 referenced in function "void __cdecl AddLow(unsigned int *,unsigned int *,unsigned int *)" (?AddLow@@YAXPAI00@Z)
+     1>Source.obj : error LNK2019: unresolved external symbol _clReleaseCommandQueue@4 referenced in function "void __cdecl AddLow(unsigned int *,unsigned int *,unsigned int *)" (?AddLow@@YAXPAI00@Z)
+     1>Source.obj : error LNK2019: unresolved external symbol _clCreateBuffer@24 referenced in function "void __cdecl AddLow(unsigned int *,unsigned int *,unsigned int *)" (?AddLow@@YAXPAI00@Z)
+     1>Source.obj : error LNK2019: unresolved external symbol _clCreateProgramWithSource@20 referenced in function "void __cdecl AddLow(unsigned int *,unsigned int *,unsigned int *)" (?AddLow@@YAXPAI00@Z)
+     1>Source.obj : error LNK2019: unresolved external symbol _clReleaseProgram@4 referenced in function "void __cdecl AddLow(unsigned int *,unsigned int *,unsigned int *)" (?AddLow@@YAXPAI00@Z)
+     1>Source.obj : error LNK2019: unresolved external symbol _clBuildProgram@24 referenced in function "void __cdecl AddLow(unsigned int *,unsigned int *,unsigned int *)" (?AddLow@@YAXPAI00@Z)
+     1>Source.obj : error LNK2019: unresolved external symbol _clGetProgramBuildInfo@24 referenced in function "void __cdecl AddLow(unsigned int *,unsigned int *,unsigned int *)" (?AddLow@@YAXPAI00@Z)
+     1>Source.obj : error LNK2019: unresolved external symbol _clCreateKernel@12 referenced in function "void __cdecl AddLow(unsigned int *,unsigned int *,unsigned int *)" (?AddLow@@YAXPAI00@Z)
+     1>Source.obj : error LNK2019: unresolved external symbol _clReleaseKernel@4 referenced in function "void __cdecl AddLow(unsigned int *,unsigned int *,unsigned int *)" (?AddLow@@YAXPAI00@Z)
+     1>Source.obj : error LNK2019: unresolved external symbol _clSetKernelArg@16 referenced in function "void __cdecl AddLow(unsigned int *,unsigned int *,unsigned int *)" (?AddLow@@YAXPAI00@Z)
+     1>Source.obj : error LNK2019: unresolved external symbol _clReleaseEvent@4 referenced in function "void __cdecl AddLow(unsigned int *,unsigned int *,unsigned int *)" (?AddLow@@YAXPAI00@Z)
+     1>Source.obj : error LNK2019: unresolved external symbol _clEnqueueReadBuffer@36 referenced in function "void __cdecl AddLow(unsigned int *,unsigned int *,unsigned int *)" (?AddLow@@YAXPAI00@Z)
+     1>Source.obj : error LNK2019: unresolved external symbol _clEnqueueNDRangeKernel@36 referenced in function "void __cdecl AddLow(unsigned int *,unsigned int *,unsigned int *)" (?AddLow@@YAXPAI00@Z)
+     1>c:\Users\tolgag\documents\visual studio 2013\Projects\Project1\Debug\nistred.exe : fatal error LNK1120: 19 unresolved externals
+     1>Done Building Project "c:\Users\tolgag\documents\visual studio 2013\Projects\Project1\Project1\Project1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.15

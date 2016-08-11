@@ -1,7 +1,0 @@
-While CFRAC is not the fastest factorization algorithm we know today it is still in the same 
-time complexity category as number field sieve and ecm. This method has a theoretical runtime of
-O(ep2logNloglogN).Though the quadratic residues produced by the continued fraction method are quite small,
-trial dividing them takes a long time. This problem of the continued fraction algorithm was overcome with another algorithm,
-the so called quadratic sieve algorithm. it uses a sieve to find candidates zn which
-indeed decompose over the factor basis. Since sieving is much cheaper than trial dividing
-lot of numbers, this trick let to a big practical improvement.

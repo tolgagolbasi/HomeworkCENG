@@ -1,0 +1,12 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: ___main.aux
+The style file: abbrv.bst
+Database file #1: references.bib
+Warning--entry type for "WikiBook:Latex" isn't style-file defined
+--line 145 of file references.bib
+Warning--entry type for "Wiki:YouTube" isn't style-file defined
+--line 151 of file references.bib
+Warning--to sort, need author, editor, or key in WikiBook:LatexPDF
+Warning--to sort, need author or key in WikiBook:Latex
+Warning--to sort, need author or key in Wiki:YouTube
+Warning--empty author and editor in WikiBook:LatexPDF
+(There were 6 warnings)

@@ -1,0 +1,86 @@
+lcm:=function(B)
+	total:=1;
+	x:=2;
+	repeat
+	total:=total*x;
+	x:=NextPrime(x);
+	until(x gt B);
+	return total;
+end function;
+gll := function(P,Q,a,n)
+	if P[3] eq 0 then
+		return Q;
+	elif 0 eq Q[3] then
+		return P;
+	elif (P[1] eq Q[1]) then
+		if (P[2] ne Q[2]) then
+			return [0,1,0];
+		elif (P[1] eq 0) then
+			return [0,1,0];
+		else
+                        if not IsUnit(P[1]) then
+				return [0,0,2*P[1]];
+		        end if;
+			x:=(((3*P[1]^2+a)*Modinv(2*P[1],n))^2-2*P[1]) mod n;
+			y:=(((3*P[1]^2+a)*Modinv(2*P[1],n))*(P[1]-x)-P[2]) mod n;
+			return [x,y,1];
+		end if;
+	else
+		if not IsUnit(Q[1]-P[1]) then
+
+			return [0,0,Q[1]-P[1]];
+		end if;
+		x:=(((P[2]-Q[2])*Modinv(P[1]-Q[1],n))^2-P[1]-Q[1]) mod n;
+		y:=(((P[2]-Q[2])*Modinv(P[1]-Q[1],n))*(P[1]-x)-P[2]) mod n;
+		return [x,y,1];
+	end if;
+end function;
+mult2l := function(b, P, a,n)
+	result:=[0, 1, 0];
+	pow2P:=P;
+	while (b ne 0) do
+
+		if ((b mod 2) eq 1) then
+			pow2P:=gll(pow2P, result, a,n);
+		end if;
+		b:=b div 2;
+		pow2P:=gll(pow2P, pow2P, a,n);
+		if (pow2P[3] gt 1) or (pow2P[3] eq 0)  then
+			break;
+		end if;
+	end while;
+	return pow2P;
+end function;
+ecm := function(n, bounda, boundb)
+	Bs:=30;
+	Bp:=lcm(Bs);
+	for a:=1 to bounda do
+		if ((4*a^3+27) mod n) eq 0 then
+			continue;
+		end if;
+		for b:=1 to boundb do
+			x:=0;
+		        repeat
+    			    y2:=(x^3+a*x+b) mod n;
+			    x:=x+1;
+		        until (IsSquare(y2));
+		        fpoint:=[x,Isqrt(y2),1];
+			fpoint:=mult2l(Bp, fpoint, a,n);
+			if (fpoint[3] eq 0) then
+				break;
+			end if;
+                        g:=GCD(fpoint[3], n);
+                        g;
+			if (g gt 1) then
+				print a,b;
+       				return g;
+			end if;
+		end for;
+	end for;
+	return "bounds not enough";
+end function;
+n:=NextPrime(478886)*NextPrime(855);
+n;
+t:=Cputime();
+ecm(n,100,100);
+Cputime(t);

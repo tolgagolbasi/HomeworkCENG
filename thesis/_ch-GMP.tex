@@ -1,0 +1,460 @@
+\section{Introduction to GMP}
+GNU MP is a portable library written in C for arbitrary precision arithmetic on
+integers, rational numbers, and floating-point numbers. It aims to provide the
+fastest possible arithmetic for all applications that need higher precision than
+is directly supported by the basic C types.
+
+Many applications use just a few hundred bits of precision; but some
+applications may need thousands or even millions of bits. GMP is designed to
+give good performance for both, by choosing algorithms based on the sizes of the
+operands, and by carefully keeping the overhead at a minimum.
+
+The speed of GMP is achieved by using fullwords as the basic arithmetic type, by
+using sophisticated algorithms, by including carefully optimized assembly code
+for the most common inner loops for many different CPUs, and by a general
+emphasis on speed (as opposed to simplicity or elegance).
+
+There is assembly code for these CPUs: ARM Cortex-A9, Cortex-A15, and generic
+ARM, DEC Alpha 21064, 21164, and 21264, AMD K8 and K10 (sold under many brands,
+e.g. Athlon64, Phenom, Opteron) Bulldozer, and Bobcat, Intel Pentium, Pentium
+Pro/II/III, Pentium 4, Core2, Nehalem, Sandy bridge, Haswell, generic x86, Intel
+IA-64, Motorola/IBM PowerPC 32 and 64 such as POWER970, POWER5, POWER6, and
+POWER7, MIPS 32-bit and 64-bit, SPARC 32-bit ad 64-bit with special support for
+all UltraSPARC models. There is also assembly code for many obsolete CPUs.
+
+For up-to-date information on GMP, please see the GMP web pages at
+
+     https://gmplib.org/
+The latest version of the library is available at
+
+     https://ftp.gnu.org/gnu/gmp/
+
+\section{GMP Basics}
+3.1 Headers and Libraries
+
+All declarations needed to use GMP are collected in the include file gmp.h. It
+is designed to work with both C and C++ compilers.
+\begin{lstlisting}
+     #include <gmp.h>
+\end{lstlisting}     
+Note however that prototypes for GMP functions with FILE * parameters are only
+provided if <stdio.h> is included too.
+\begin{lstlisting}
+     #include <stdio.h>
+     #include <gmp.h>
+\end{lstlisting}     
+All programs using GMP must link against the libgmp library. On a typical
+Unix-like system this can be done with '-lgmp', for example gcc myprogram.c
+-lgmp
+
+3.2 Nomenclature and Types
+
+Integer usually means a multiple precision integer, as defined
+by the GMP library. The C data type for such integers is mpz\_t. Here are some
+examples of how to declare such integers:
+\begin{lstlisting}
+     mpz_t sum;
+     
+     struct foo { mpz_t x, y; };
+     
+     mpz_t vec[20];
+\end{lstlisting}         
+
+A limb means the part of a multi-precision number that fits in a single machine
+word. Normally a limb is 32 or 64 bits. The C data type for a limb is
+mp\_limb\_t.
+
+Counts of limbs of a multi-precision number represented in the C type mp\_size\_t.
+
+Also, in general mp\_bitcnt\_t is used for bit counts and ranges, and size\_t is
+used for byte or character counts.
+
+3.3 Function Classes
+
+These are some of classes of functions in the GMP library:
+
+Functions for signed integer arithmetic, with names beginning with mpz\_. The
+associated type is mpz\_t. There are about 150 functions in this class.
+Functions for rational number arithmetic, with names beginning with mpq\_. The
+associated type is mpq\_t. There are about 35 functions in this class, but the
+integer functions can be used for arithmetic on the numerator and denominator
+separately.
+Functions for floating-point arithmetic, with names beginning with mpf\_. The
+associated type is mpf\_t. There are about 70 functions is this class.
+Fast low-level functions that operate on natural numbers. These functions' names
+begin with mpn\_. The associated type is array of mp\_limb\_t. There are about
+60 (hard-to-use) functions in this class.
+Miscellaneous functions. Functions for setting up custom allocation and
+functions for generating random numbers.
+
+3.4 Variable Conventions
+
+GMP functions generally have output arguments before input arguments. This
+notation is by analogy with the assignment operator.
+
+GMP lets you use the same variable for both input and output in one call. For
+example, the main function for integer multiplication, mpz\_mul, can be used to
+square x and put the result back in x with
+
+     mpz\_mul (x, x, x);
+Before you can assign to a GMP variable, you need to initialize it by calling
+one of the special initialization functions. When you're done with a variable,
+you need to clear it out, using one of the functions for that purpose. Which
+function to use depends on the type of variable.
+
+A variable should only be initialized once, or at least cleared between each
+initialization. After a variable has been initialized, it may be assigned to any
+number of times.
+
+For efficiency reasons, avoid excessive initializing and clearing. In general,
+initialize near the start of a function and clear near the end. For example,
+\begin{lstlisting}
+     void
+     foo (void)
+     {
+       mpz_t  n;
+       int    i;
+       mpz_init (n);
+       for (i = 1; i < 100; i++)
+         {
+           mpz_mul (n, ...);
+           mpz_fdiv_q (n, ...);
+           ...
+         }
+       mpz_clear (n);
+     }
+\end{lstlisting} 
+3.5 Parameter Conventions
+
+When a GMP variable is used as a function parameter, it's effectively a
+call-by-reference, meaning if the function stores a value there it will change
+the original in the caller.
+
+When a function is going to return a GMP result, it should designate a
+parameter that it sets, like the library functions do. More than one value can
+be returned by having more than one output parameter, again like the library
+functions. A return of an mpz\_t etc doesn't return the object, only a pointer,
+and this is almost certainly not what's wanted.
+
+Here's an example accepting an mpz\_t parameter, doing a calculation, and
+storing the result to the indicated parameter.
+\begin{lstlisting}
+     void
+     foo (mpz_t result, const mpz_t param, unsigned long n)
+     {
+       unsigned long  i;
+       mpz_mul_ui (result, param, n);
+       for (i = 1; i < n; i++)
+         mpz_add_ui (result, result, i*7);
+     }
+
+     int
+     main (void)
+     {
+       mpz_t  r, n;
+       mpz_init (r);
+       mpz_init_set_str (n, "123456", 0);
+       foo (r, n, 20L);
+       gmp_printf ("%Zd\n", r);
+       return 0;
+     }
+\end{lstlisting} 
+3.6 Memory Management
+
+The GMP types like mpz\_t are small, containing only a couple of sizes, and
+pointers to allocated data. Once a variable is initialized, GMP takes care of
+all space allocation. Additional space is allocated whenever a variable doesn't
+have enough.
+
+mpz\_t and mpq\_t variables never reduce their allocated space. Normally this is
+the best policy, since it avoids frequent reallocation. Applications that need
+to return memory to the heap at some particular point can use mpz\_realloc2, or
+clear variables no longer needed.
+
+All memory is allocated using malloc and friends by default, but this can be
+changed, see Custom Allocation. Temporary memory on the stack is also used (via
+alloca), but this can be changed at build-time if desired, see Build Options.
+
+3.11 Efficiency
+
+Small Operands
+On small operands, the time for function call overheads and memory allocation
+can be significant in comparison to actual calculation. This is unavoidable in a
+general purpose variable precision library, although GMP attempts to be as
+efficient as it can on both large and small operands.
+
+Initializing and Clearing
+Avoid excessive initializing and clearing of variables, since this can be quite
+time consuming, especially in comparison to otherwise fast operations like
+addition.
+
+Reallocations
+An mpz\_t or mpq\_t variable used to hold successively increasing values will
+have its memory repeatedly realloced, which could be quite slow or could
+fragment memory, depending on the C library. If an application can estimate the
+final size then mpz\_init2 or mpz\_realloc2 can be called to allocate the
+necessary space from the beginning (see Initializing Integers).
+It doesn't matter if a size set with mpz\_init2 or mpz\_realloc2 is too small,
+since all functions will do a further reallocation if necessary. Badly
+overestimating memory required will waste space though.
+
+mpz\_mul is currently the opposite, a separate destination is slightly better. A
+call like mpz\_mul(x,x,y) will, unless y is only one limb, make a temporary copy
+of x before forming the result. Normally that copying will only be a tiny
+fraction of the time for the multiply, so this is not a particularly important
+consideration.
+
+Divisibility Testing (Small Integers)
+mpz\_divisible\_ui\_p and mpz\_congruent\_ui\_p are the best functions for
+testing whether an mpz\_t is divisible by an individual small integer. They use
+an algorithm which is faster than mpz\_tdiv\_ui, but which gives no useful
+information about the actual remainder, only whether it's zero (or a particular
+value).
+However when testing divisibility by several small integers, it's best to take a
+remainder modulo their product, to save multi-precision operations.
+
+The division functions like mpz\_tdiv\_q\_ui which give a quotient as well as a
+remainder are generally a little slower than the remainder-only functions like
+mpz\_tdiv\_ui. If the quotient is only rarely wanted then it's probably best to
+just take a remainder and then go back and calculate the quotient if and when
+it's wanted (mpz\_divexact\_ui can be used if the remainder is zero). 
+
+\section{Installing GMP}
+GMP has an autoconf/automake/libtool based configuration system. On a Unix-like
+system a basic build can be done with
+
+     ./configure
+     make
+Some self-tests can be run with
+
+     make check
+And you can install (under /usr/local by default) with
+
+     make install
+
+CPU types
+In general, if you want a library that runs as fast as possible, you should
+configure GMP for the exact CPU type your system uses. However, this may mean
+the binaries won't run on older members of the family, and might run slower on
+other members, older or newer. The best idea is always to build GMP for the
+exact machine type you intend to run it on.
+ 
+Generic C Build
+If some of the assembly code causes problems, or if otherwise desired, the
+generic C code can be selected with the configure --disable-assembly.
+Note that this will run quite slowly, but it should be portable and should at
+least make it possible to get something running if all else fails.
+
+Fat binary, --enable-fat
+Using --enable-fat selects a fat binary build on x86, where optimized low level
+subroutines are chosen at runtime according to the CPU detected. This means more
+code, but gives good performance on all x86 chips.
+
+FFT Multiplication, --disable-fft
+By default multiplications are done using Karatsuba, 3-way Toom, higher degree
+Toom, and Fermat FFT. The FFT is only used on large to very large operands and
+can be disabled to save code size if desired.
+
+In particular for long-running GMP applications, and applications demanding
+extremely large numbers, building and running the tuneup program in the tune
+subdirectory, can be important. For example,
+
+     cd tune
+     make tuneup
+     ./tuneup
+will generate better contents for the gmp-mparam.h parameter file.
+
+\section{Integer Functions}
+The functions for integer arithmetic assume that all integer objects are
+initialized. You do that by calling the function mpz\_init. For example,
+\begin{lstlisting}
+     {
+       mpz_t integ;
+       mpz_init (integ);
+       ...
+       mpz_add (integ, ...);
+       ...
+       mpz_sub (integ, ...);
+     
+       /* Unless the program is about to exit, do ... */
+       mpz_clear (integ);
+     }
+\end{lstlisting}     
+As you can see, you can store new values any number of times, once an object is
+initialized.
+
+ Function: void mpz\_init (mpz\_t x)
+Initialize x, and set its value to 0.
+
+ Function: void mpz\_inits (mpz\_t x, ...)
+Initialize a NULL-terminated list of mpz\_t variables, and set their values to
+0.
+
+ Function: void mpz\_clear (mpz\_t x)
+Free the space occupied by x. Call this function for all mpz\_t variables when
+you are done with them.
+
+ Function: void mpz\_clears (mpz\_t x, ...)
+Free the space occupied by a NULL-terminated list of mpz\_t variables.
+
+ Function: void mpz\_realloc2 (mpz\_t x, mp\_bitcnt\_t n)
+Change the space allocated for x to n bits. The value in x is preserved if it
+fits, or is set to 0 if not.
+
+These functions assign new values to already initialized integers (see
+Initializing Integers).
+
+ Function: void mpz\_set (mpz\_t rop, const mpz\_t op)
+Set the value of rop from op.
+
+ Function: int mpz\_set\_str (mpz\_t rop, const char *str, int base)
+Set the value of rop from str, a null-terminated C string in base base.
+
+ Function: void mpz\_swap (mpz\_t rop1, mpz\_t rop2)
+Swap the values rop1 and rop2 efficiently.
+
+Here is an example of using one:
+\begin{lstlisting}
+     {
+       mpz_t pie;
+       mpz_init_set_str (pie, "3141592653589793238462643383279502884", 10);
+       ...
+       mpz_sub (pie, ...);
+       ...
+       mpz_clear (pie);
+     }
+\end{lstlisting}
+Once the integer has been initialized by any of the mpz\_init\_set... functions,
+it can be used as the source or destination operand for the ordinary integer
+functions.
+
+ Function: void mpz\_init\_set (mpz\_t rop, const mpz\_t op)
+Initialize rop with limb space and set the initial numeric value from op.
+
+ Function: int mpz\_init\_set\_str (mpz\_t rop, const char *str, int base)
+Initialize rop and set its value like mpz\_set\_str
+
+ Function: unsigned long int mpz\_get\_ui (const mpz\_t op)
+Return the value of op as an unsigned long.
+
+ Function: signed long int mpz\_get\_si (const mpz\_t op)
+If op fits into a signed long int return the value of op. Otherwise return the
+least significant part of op, with the same sign as op.
+
+ Function: char * mpz\_get\_str (char *str, int base, const mpz\_t op)
+Convert op to a string of digits in base base.
+
+5.5 Arithmetic Functions
+
+ Function: void mpz\_add (mpz\_t rop, const mpz\_t op1, const mpz\_t op2)
+Set rop to op1 + op2.
+
+ Function: void mpz\_sub (mpz\_t rop, const mpz\_t op1, const mpz\_t op2)
+Set rop to op1 - op2.
+
+ Function: void mpz\_mul (mpz\_t rop, const mpz\_t op1, const mpz\_t op2)
+Set rop to op1 times op2.
+
+ Function: void mpz\_addmul (mpz\_t rop, const mpz\_t op1, const mpz\_t op2)
+Set rop to rop + op1 times op2.
+
+ Function: void mpz\_submul (mpz\_t rop, const mpz\_t op1, const mpz\_t op2)
+Set rop to rop - op1 times op2.
+
+ Function: void mpz\_mul\_2exp (mpz\_t rop, const mpz\_t op1, mp\_bitcnt\_t op2)
+Set rop to op1 times 2 raised to op2. This operation can also be defined as a
+left shift by op2 bits.
+
+ Function: void mpz\_neg (mpz\_t rop, const mpz\_t op)
+Set rop to -op.
+
+ Function: void mpz\_abs (mpz\_t rop, const mpz\_t op)
+Set rop to the absolute value of op.
+
+ Function: void mpz\_mod (mpz\_t r, const mpz\_t n, const mpz\_t d)
+Set r to n mod d. The sign of the divisor is ignored; the result is always
+non-negative.
+
+These routines are much faster than the other division functions, and are the
+best choice when exact division is known to occur, for example reducing a
+rational to lowest terms.
+
+ Function: int mpz\_divisible\_p (const mpz\_t n, const mpz\_t d)
+Return non-zero if n is exactly divisible by d, or in the case of
+mpz\_divisible\_2exp\_p by 2\^b.
+
+n is divisible by d if there exists an integer q satisfying n = q*d. Unlike the
+other division functions, d=0 is accepted and following the rule it can be seen
+that only 0 is considered divisible by 0.
+
+ Function: int mpz\_congruent\_p (const mpz\_t n, const mpz\_t c, const mpz\_t d)
+Return non-zero if n is congruent to c modulo d, or in the case of
+mpz\_congruent\_2exp\_p modulo 2\^b.
+
+n is congruent to c mod d if there exists an integer q satisfying n = c + q*d.
+Unlike the other division functions, d=0 is accepted and following the rule it
+can be seen that n and c are considered congruent mod 0 only when exactly equal.
+
+ Function: void mpz\_sqrt (mpz\_t rop, const mpz\_t op)
+Set rop to the truncated integer part of the square root of op.
+
+ Function: int mpz\_cmp (const mpz\_t op1, const mpz\_t op2)
+Compare op1 and op2. Return a positive value if op1 > op2, zero if op1 = op2, or
+a negative value if op1 < op2.
+
+ Macro: int mpz\_sgn (const mpz\_t op)
+Return +1 if op > 0, 0 if op = 0, and -1 if op < 0.
+
+5.12 Input and Output Functions
+
+ Function: size\_t mpz\_out\_str (FILE *stream, int base, const mpz\_t op)
+Output op on stdio stream stream, as a string of digits in base base. The base
+argument may vary from 2 to 62 or from -2 to -36.
+
+ Function: size\_t mpz\_inp\_str (mpz\_t rop, FILE *stream, int base)
+Input a possibly white-space preceded string in base base from stdio stream
+stream, and put the read integer in rop.
+
+Function: size\_t mpz\_out\_raw (FILE *stream, const mpz\_t op)
+Output op on stdio stream stream, in raw binary format. The integer is written
+in a portable format, with 4 bytes of size information, and that many bytes of
+limbs. Both the size and the limbs are written in decreasing significance order
+(i.e., in big-endian).
+
+Function: size\_t mpz\_inp\_raw (mpz\_t rop, FILE *stream)
+Input from stdio stream stream in the format written by mpz\_out\_raw, and put
+the result in rop.
+
+
+5.14 Integer Import and Export
+
+mpz\_t variables can be converted to and from arbitrary words of binary data
+with the following functions.
+
+ Function: void mpz\_import (mpz\_t rop, size\_t count, int order, size\_t size,
+ int endian, size\_t nails, const void *op) Set rop from an array of word data at op.
+
+The parameters specify the format of the data. count many words are read, each
+size bytes. order can be 1 for most significant word first or -1 for least
+significant first. Within each word endian can be 1 for most significant byte
+first, -1 for least significant first, or 0 for the native endianness of the
+host CPU. The most significant nails bits of each word are skipped, this can be
+0 to use the full words.
+
+Here's an example converting an array of unsigned long data, most significant
+element first, and host byte order within each value.
+\begin{lstlisting}
+          unsigned long  a[20];
+      /* Initialize z and a */
+      mpz\_import (z, 20, 1, sizeof(a[0]), 0, 0, a);
+\end{lstlisting}      
+
+ Function: void * mpz\_export (void *rop, size\_t *countp, int order, size\_t size, int endian, size\_t nails, const mpz\_t op)
+Fill rop with word data from op.
+
+The parameters specify the format of the data produced. Each word will be size
+bytes and order can be 1 for most significant word first or -1 for least
+significant first. Within each word endian can be 1 for most significant byte
+first, -1 for least significant first, or 0 for the native endianness of the
+host CPU. The most significant nails bits of each word are unused and set to
+zero, this can be 0 to produce full words. 

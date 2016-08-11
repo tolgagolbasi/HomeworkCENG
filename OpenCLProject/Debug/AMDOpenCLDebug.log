@@ -1,0 +1,17 @@
+
+*************************************
+Log started: Thu Nov  7 12:29:29 2013
+
+
+*************************************
+
+Assert:   Error: clBuildProgram() failed.
+
+Error:   Failed to switch shader
+Assert:   m_PatchedKernel
+Assert:   m_PatchedKernel
+Assert:   m_PatchedKernel
+Assert:   m_PatchedKernel
+Error:   Failed to switch buffers
+Assert:   m_PatchedKernel
+Error:   Failed to set register selector value

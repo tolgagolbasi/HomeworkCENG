@@ -1,0 +1,158 @@
+\begin{thebibliography}{10}
+
+\bibitem{WikiBook:LatexPDF}
+{\em LaTex}.
+\newblock WikiBooks, 2011.
+
+\bibitem{WikiBook:Latex}
+Latex on wikibooks {@https://en.wikibooks.org/wiki/LaTeX}, Dec. 2011.
+
+\bibitem{Wiki:YouTube}
+Youtube in wikipedia {@http://en.wikipedia.org/wiki/YouTube}, Dec. 2011.
+
+\bibitem{9780596009076}
+C.~Adamson and J.~Marinacci.
+\newblock {\em Swing Hacks: Tips and Tools for Killer GUIs}.
+\newblock O'Reilly Media, 1 edition, 2005.
+
+\bibitem{tomcatdeploy}
+Apache.
+\newblock Manager app how-to.
+\newblock \url{https://tomcat.apache.org/tomcat-7.0-doc/manager-howto.html}.
+
+\bibitem{9781933988078}
+D.~Brown, C.~M. Davis, and S.~Stanlick.
+\newblock {\em Struts 2 in Action}.
+\newblock Manning Publications, 2008.
+
+\bibitem{hibtutorial2}
+CoreServlets.
+\newblock Hibernate and jpa: An introduction and tutorial.
+\newblock
+  \url{http://courses.coreservlets.com/Course-Materials/hibernate.html}.
+
+\bibitem{coreservlets}
+CoreServlets.
+\newblock Jsf 2.0 tutorials.
+\newblock \url{http://www.coreservlets.com/JSF-Tutorial/jsf2/}.
+
+\bibitem{springtut2}
+CoreServlets.
+\newblock Spring tutorial: An introduction and tutorial for the spring
+  framework.
+\newblock \url{http://courses.coreservlets.com/Course-Materials/spring.html}.
+
+\bibitem{9780131752429}
+P.~Deitel.
+\newblock {\em Internet \& World Wide Web: How to Program}.
+\newblock Prentice Hall, 4 edition, 2007.
+
+\bibitem{9780132575669}
+P.~Deitel and H.~Deitel.
+\newblock {\em Java How to Program}.
+\newblock Prentice Hall, 9 edition, 2012.
+
+\bibitem{9781846288630}
+T.~Downey.
+\newblock {\em Web Development with Java: Using Hibernate, JSPs and Servlets}.
+\newblock Springer, 1 edition, 2007.
+
+\bibitem{9780137012893}
+D.~Geary and C.~Horstmann.
+\newblock {\em Core JavaServer Faces}.
+\newblock Prentice Hall, 3 edition, 2010.
+
+\bibitem{log4jconfig}
+IdleWorx.
+\newblock Setting up log4j for simple java web applications + tomcat 5/6.
+\newblock
+  \url{http://blog.idleworx.com/2010/01/setting-up-log4j-for-simple-java-web.html}.
+
+\bibitem{hibtutorial1}
+Mkyong.
+\newblock Hibernate tutorial.
+\newblock \url{http://www.mkyong.com/tutorials/hibernate-tutorials/}.
+
+\bibitem{resizeimage}
+Mkyong.
+\newblock How to resize an image in java ?
+\newblock \url{http://www.mkyong.com/java/how-to-resize-an-image-in-java/}.
+
+\bibitem{mkyongmerging}
+Mkyong.
+\newblock Jsf 2.0 + spring + hibernate integration example.
+\newblock
+  \url{http://www.mkyong.com/jsf2/jsf-2-0-spring-hibernate-integration-example/}.
+
+\bibitem{jsftutorials}
+Mkyong.
+\newblock Jsf 2.0 tutorial.
+\newblock \url{http://www.mkyong.com/tutorials/jsf-2-0-tutorials/}.
+
+\bibitem{springtut1}
+Mkyong.
+\newblock Spring tutorial.
+\newblock \url{http://www.mkyong.com/tutorials/spring-tutorials/}.
+
+\bibitem{datatableincelledit}
+S.~Overflow.
+\newblock Datatable - incell editing how to get the value of the object edited
+  in the managed bean.
+\newblock
+  \url{http://stackoverflow.com/questions/10398960/datatable-incell-editing-how-to-get-the-value-of-the-object-edited-in-the-mana}.
+
+\bibitem{twofieldvalid}
+S.~Overflow.
+\newblock Jsf 2.0: Validate equality of 2 inputsecret fields (confirm password)
+  without writing code?
+\newblock
+  \url{http://stackoverflow.com/questions/2909021/jsf-2-0-validate-equality-of-2-inputsecret-fields-confirm-password-without-wr}.
+
+\bibitem{customvalidator}
+V.~Patel.
+\newblock Javaserver faces jsf validation tutorial: Error handling in jsf.
+\newblock
+  \url{http://viralpatel.net/blogs/2009/02/javaserver-faces-jsf-validation-tutorial-error-handling-jsf-validator.html}.
+
+\bibitem{editabledatatable}
+PrimeFaces.
+\newblock Primefaces - datatable - incell editing.
+\newblock \url{http://www.primefaces.org/showcase/ui/datatableEditing.jsf}.
+
+\bibitem{installjdk7}
+ShinePHP.
+\newblock Installing jdk 7 on ubuntu.
+\newblock \url{http://www.shinephp.com/install-jdk-7-on-ubuntu/}.
+
+\bibitem{9780596003777}
+J.~Shirazi.
+\newblock {\em Java Performance Tuning}.
+\newblock O'Reilly Media, 2 edition, 2003.
+
+\bibitem{primefacesdocumentation}
+P.~Teknoloji.
+\newblock {\em PrimeFaces's User's Guide}.
+\newblock Prime Teknoloji, 2011.
+
+\bibitem{videojs}
+Video.js.
+\newblock Video.js.
+\newblock \url{http://videojs.com/}.
+
+\bibitem{decodeandcaptureframes}
+Xuggle.
+\newblock Decodeandcaptureframes.
+\newblock
+  \url{https://github.com/xuggle/xuggle-xuggler/blob/master/src/com/xuggle/mediatool/demos/DecodeAndCaptureFrames.java}.
+
+\bibitem{xugglerdownload}
+Xuggle.
+\newblock Xuggler download page.
+\newblock \url{http://xuggle.com/downloads}.
+
+\bibitem{xugglermain}
+Xuggle.
+\newblock Xuggler main page.
+\newblock \url{http://xuggle.com/}.
+
+\end{thebibliography}
