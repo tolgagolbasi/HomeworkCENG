@@ -1,0 +1,83 @@
+ec_add := function(x1,y1,z1,x2,y2,z2,a,b)
+	if z1 eq 0 then
+		return x2,y2,z2;
+	elif z2 eq 0 then
+		return x1,y1,z1;
+	elif (x1 eq x2) then
+		if (y1 ne y2) then
+			return 0,1,0;
+		elif (y1 eq 0) then
+			return 0,1,0;
+		else
+           	if not IsUnit(y1) then
+				print "found1";
+				return 0,0,2*y1;
+		        end if;
+			x3:=(((3*x1^2+a)/(2*y1))^2-2*x1);
+			y3:=(((3*x1^2+a)/(2*y1))*(x1-x3)-x2);
+			return x3,y3,1;
+		end if;
+	else
+		if not IsUnit(x1-x2) then
+			print "found2";
+			return 0,0,x2-x1;
+		end if;
+		x3:=((y1-y2)/(x1-x2))^2-x1-x2;
+		y3:=((y1-y2)/(x1-x2))*(x1-x3)-y1;
+		assert y3^2 - (x3^3+a*x3+b) eq 0;
+		return x3,y3,1;
+	end if;
+end function;
+
+
+ec_random:= function(R, a, b)
+	x1:=Random(R);
+	repeat
+		x1:=x1+1;
+		yy1:=x1^3 + a*x1 + b;
+	until IsSquare(yy1);
+	y1:= Sqrt(yy1);
+	assert y1^2 - (x1^3+a*x1+b) eq 0;
+	return x1,y1,1;
+end function;
+
+
+p:=NextPrime(Random([100..1000]));
+q:=NextPrime(Random([100..1000]));
+n:=p*q;
+R:=IntegerRing(n);
+
+a:=Random(R);
+b:=Random(R);
+//Check discriminant.
+
+x1,y1,z1:=ec_random(R,a,b);
+x2,y2,z2:=ec_random(R,a,b);
+x3,y3,z3:=ec_random(R,a,b);
+
+//[x1,y1,z1],
+//[x2,y2,z2];
+//[x3,y3,z3];
+
+xt,yt,zt:=ec_add(x1,y1,z1,x2,y2,z2,a,b);
+xt,yt,zt:=ec_add(x3,y3,z3,xt,yt,zt,a,b);
+
+xr,yr,zr:=ec_add(x3,y3,z3,x2,y2,z2,a,b);
+xr,yr,zr:=ec_add(x1,y1,z1,xr,yr,zr,a,b);
+
+xt eq xr;
+yt eq yr;
+zt eq zr;
+
+
+
+
+
+
+
+
+
+
+
+
+

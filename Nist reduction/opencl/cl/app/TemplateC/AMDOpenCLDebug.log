@@ -1,0 +1,9804 @@
+
+*************************************
+Log started: Wed Jul 10 15:03:17 2013
+
+
+*************************************
+
+
+***********************************
+Log ended: Wed Jul 10 15:03:17 2013
+
+
+***********************************
+
+
+*************************************
+Log started: Wed Jul 10 17:53:27 2013
+
+
+*************************************
+
+Warning: Expression could not be reduced to literals.
+Warning: Indexed temp could not be resolved on line 500, instruction 271. Performance may be slow.
+Warning: Expression could not be reduced to literals.
+Warning: Indexed temp could not be resolved on line 503, instruction 274. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 724, instruction 484. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 763, instruction 520. Performance may be slow.
+
+*************************************
+Log started: Wed Jul 10 17:58:20 2013
+
+
+*************************************
+
+Warning: Expression could not be reduced to literals.
+Warning: Indexed temp could not be resolved on line 500, instruction 271. Performance may be slow.
+Warning: Expression could not be reduced to literals.
+Warning: Indexed temp could not be resolved on line 503, instruction 274. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 724, instruction 484. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 763, instruction 520. Performance may be slow.
+
+*************************************
+Log started: Wed Jul 10 18:03:07 2013
+
+
+*************************************
+
+Warning: Expression could not be reduced to literals.
+Warning: Indexed temp could not be resolved on line 500, instruction 271. Performance may be slow.
+Warning: Expression could not be reduced to literals.
+Warning: Indexed temp could not be resolved on line 503, instruction 274. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 724, instruction 484. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 763, instruction 520. Performance may be slow.
+Message: 	whileloop
+
+
+*************************************
+Log started: Wed Jul 10 18:06:51 2013
+
+
+*************************************
+
+Warning: Expression could not be reduced to literals.
+Warning: Indexed temp could not be resolved on line 500, instruction 271. Performance may be slow.
+Warning: Expression could not be reduced to literals.
+Warning: Indexed temp could not be resolved on line 503, instruction 274. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 750, instruction 510. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 796, instruction 553. Performance may be slow.
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+*************************************
+Log started: Wed Jul 10 18:10:24 2013
+
+
+*************************************
+
+Warning: Expression could not be reduced to literals.
+Warning: Indexed temp could not be resolved on line 500, instruction 271. Performance may be slow.
+Warning: Expression could not be reduced to literals.
+Warning: Indexed temp could not be resolved on line 503, instruction 274. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 750, instruction 510. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 796, instruction 553. Performance may be slow.
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+***********************************
+Log ended: Wed Jul 10 18:15:43 2013
+
+
+***********************************
+
+
+*************************************
+Log started: Thu Jul 11 15:33:41 2013
+
+
+*************************************
+
+
+***********************************
+Log ended: Thu Jul 11 15:33:41 2013
+
+
+***********************************
+
+
+*************************************
+Log started: Sat Jul 13 20:11:06 2013
+
+
+*************************************
+
+
+***********************************
+Log ended: Sat Jul 13 20:11:14 2013
+
+
+***********************************
+
+
+*************************************
+Log started: Sat Jul 13 20:35:52 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 278, instruction 162. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 294, instruction 177. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 423, instruction 296. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 469, instruction 339. Performance may be slow.
+
+*************************************
+Log started: Sat Jul 13 20:36:21 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 260, instruction 145. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 276, instruction 160. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 405, instruction 279. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 451, instruction 322. Performance may be slow.
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+
+*************************************
+Log started: Sat Jul 13 21:54:12 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 263, instruction 147. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 279, instruction 162. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 408, instruction 281. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 454, instruction 324. Performance may be slow.
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+*************************************
+Log started: Sat Jul 13 22:08:04 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 215, instruction 115. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 231, instruction 130. Performance may be slow.
+Warning: Cannot resolve instruction 154.
+Warning: Indexed temp could not be resolved on line 366, instruction 255. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 412, instruction 298. Performance may be slow.
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+*************************************
+Log started: Sat Jul 13 22:37:42 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 215, instruction 115. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 231, instruction 130. Performance may be slow.
+Warning: Cannot resolve instruction 154.
+Warning: Indexed temp could not be resolved on line 368, instruction 257. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 414, instruction 300. Performance may be slow.
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+***********************************
+Log ended: Sat Jul 13 22:39:17 2013
+
+
+***********************************
+
+
+*************************************
+Log started: Sat Jul 13 22:39:53 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 215, instruction 115. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 231, instruction 130. Performance may be slow.
+Warning: Cannot resolve instruction 154.
+Warning: Indexed temp could not be resolved on line 368, instruction 257. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 414, instruction 300. Performance may be slow.
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+*************************************
+Log started: Sat Jul 13 22:51:17 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 215, instruction 115. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 231, instruction 130. Performance may be slow.
+Warning: Cannot resolve instruction 154.
+Warning: Indexed temp could not be resolved on line 368, instruction 257. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 417, instruction 303. Performance may be slow.
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+*************************************
+Log started: Sat Jul 13 22:53:21 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 215, instruction 115. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 231, instruction 130. Performance may be slow.
+Warning: Cannot resolve instruction 154.
+Warning: Indexed temp could not be resolved on line 368, instruction 257. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 417, instruction 303. Performance may be slow.
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+*************************************
+Log started: Mon Jul 15 10:59:52 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 215, instruction 115. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 231, instruction 130. Performance may be slow.
+Warning: Cannot resolve instruction 154.
+Warning: Indexed temp could not be resolved on line 366, instruction 255. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 415, instruction 301. Performance may be slow.
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+*************************************
+Log started: Mon Jul 15 11:01:40 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 215, instruction 115. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 231, instruction 130. Performance may be slow.
+Warning: Cannot resolve instruction 154.
+Warning: Indexed temp could not be resolved on line 366, instruction 255. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 415, instruction 301. Performance may be slow.
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+***********************************
+Log ended: Mon Jul 15 11:02:26 2013
+
+
+***********************************
+
+
+*************************************
+Log started: Mon Jul 15 11:10:06 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 215, instruction 115. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 231, instruction 130. Performance may be slow.
+Warning: Cannot resolve instruction 154.
+Warning: Indexed temp could not be resolved on line 366, instruction 255. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 415, instruction 301. Performance may be slow.
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+*************************************
+Log started: Mon Jul 15 11:19:27 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 215, instruction 115. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 231, instruction 130. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 388, instruction 275. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 422, instruction 306. Performance may be slow.
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+*************************************
+Log started: Mon Jul 15 11:22:08 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 215, instruction 115. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 231, instruction 130. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 388, instruction 275. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 422, instruction 306. Performance may be slow.
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+*************************************
+Log started: Mon Jul 15 12:08:37 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 259, instruction 147. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 275, instruction 162. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 428, instruction 304. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 462, instruction 335. Performance may be slow.
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+*************************************
+Log started: Mon Jul 15 13:34:10 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 261, instruction 147. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 277, instruction 162. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 474, instruction 347. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 501, instruction 373. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 535, instruction 404. Performance may be slow.
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+*************************************
+Log started: Mon Jul 15 13:44:39 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 259, instruction 147. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 275, instruction 162. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 452, instruction 327. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 478, instruction 352. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 508, instruction 379. Performance may be slow.
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+*************************************
+Log started: Mon Jul 15 13:45:23 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 211, instruction 115. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 227, instruction 130. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 404, instruction 295. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 430, instruction 320. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 460, instruction 347. Performance may be slow.
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+*************************************
+Log started: Mon Jul 15 13:52:29 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 211, instruction 115. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 227, instruction 130. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 362, instruction 254. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 391, instruction 282. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 453, instruction 340. Performance may be slow.
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+*************************************
+Log started: Mon Jul 15 14:31:16 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 209, instruction 115. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 225, instruction 130. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 356, instruction 251. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 382, instruction 276. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 437, instruction 328. Performance may be slow.
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+*************************************
+Log started: Mon Jul 15 14:39:15 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 209, instruction 115. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 225, instruction 130. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 359, instruction 254. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 385, instruction 279. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 440, instruction 331. Performance may be slow.
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+*************************************
+Log started: Mon Jul 15 14:42:33 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 209, instruction 115. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 225, instruction 130. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 359, instruction 254. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 385, instruction 279. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 440, instruction 331. Performance may be slow.
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+*************************************
+Log started: Mon Jul 15 14:44:14 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 209, instruction 115. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 225, instruction 130. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 359, instruction 254. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 385, instruction 279. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 440, instruction 331. Performance may be slow.
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+*************************************
+Log started: Wed Jul 31 01:29:01 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 250, instruction 148. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 414, instruction 296. Performance may be slow.
+Warning: Cannot resolve instruction 403.
+Warning: Indexed temp could not be resolved on line 464, instruction 343. Performance may be slow.
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+*************************************
+Log started: Tue Aug 06 15:23:36 2013
+
+
+*************************************
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+*************************************
+Log started: Wed Aug 21 12:59:19 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 269, instruction 162. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 427, instruction 311. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 438, instruction 321. Performance may be slow.
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+*************************************
+Log started: Thu Aug 22 10:58:09 2013
+
+
+*************************************
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	if_logicalnz
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+

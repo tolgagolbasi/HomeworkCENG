@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	  xmlns:h="http://java.sun.com/jsf/html"
+	  xmlns:f="http://java.sun.com/jsf/core"
+	  xmlns:p="http://primefaces.org/ui"
+	  xmlns:ui="http://java.sun.com/jsf/facelets">
+	<h:head>
+		#{videoImpl.fCheckStatus(userLogin.logged)}
+		<title>Prototube.com - Upload</title>
+		<h:outputStylesheet library="css" name="style.css"  />
+		<h:outputStylesheet library="css" name="light.css"  />
+		<h:outputStylesheet library="css" name="overlay.css"  />
+	</h:head>
+	<body>
+		<div class="body_wrap">
+			<div class="header">
+				<div class="logo">
+					<a href="index.html"><h:graphicImage library="images" name="logo.png" width="188" height="135"/></a>
+					<h1>Prototube.com - A Senior Project</h1>
+				</div>
+				<div class="topmenu">
+					<ul class="dropdown">
+						<li><h:link outcome="index" ><span>Home</span></h:link></li>
+						<li><h:link outcome="register" rendered="#{!userLogin.logged}"><span>Register</span></h:link></li>
+						<li><h:link outcome="login" rendered="#{!userLogin.logged}"><span>Login</span></h:link></li>
+						<li class="menu-item-home current-menu-item"><h:link outcome="upload" rendered="#{userLogin.logged}"><span>Upload</span></h:link></li>
+						<li><h:link outcome="info" rendered="#{userLogin.logged}"><span>Info</span></h:link></li>
+						<li><h:link outcome="admin" rendered="#{(userLogin.usertype==2)||(userLogin.usertype==3)}"><span>Admin</span></h:link></li>
+						<li><h:form>
+								<h:commandLink action="#{userLogin.logout()}" rendered="#{userLogin.logged}">
+									<span>Logout</span></h:commandLink>
+							</h:form></li>
+					</ul>
+					<div class="clear"></div>
+				</div>
+			</div>
+			<div class="content_top">
+			</div>
+			<div class="middle cols2_fix">
+				<div class="content_wrapper">
+					<div class="content">
+						<div class="widget-container widget_login">
+							<h3><h:outputText value="Select a file to upload - Maximum 50 MB - Valid type WebM"/></h3>
+							<h:form enctype="multipart/form-data" class="loginform">
+								<p:messages showDetail="true"/>  
+								<p><label>File</label><br /><p:fileUpload value="#{videoImpl.file}" mode="simple" required="true"/></p>
+								<p><label>Video Name</label><br /><h:inputText id="videoname" value="#{videoImpl.uploadedVideoName}" 
+																			   size="20" required="true"
+																			   label="VideoName" validatorMessage="Video Name must be between 4 and 80 characters">
+										<f:validateLength minimum="4" maximum="80" />
+									</h:inputText></p>
+								<p class="submit">   
+									<p:commandButton id="showDialogButton" value="Upload" onclick="confirmation.show()" type="button" styleClass="btn-submit"/>  
+								</p>
+								<p:confirmDialog id="confirmDialog" message="Are you sure to upload video?"  
+												 header="Upload Video" severity="alert" widgetVar="confirmation">
+									<p:commandButton id="confirm" value="Yes" ajax="false" oncomplete="confirmation.hide()"  
+													 actionListener="#{videoImpl.fUploadVideo()}" >
+										<f:attribute name="file" value="#{videoImpl.file}" />
+										<f:attribute name="videoname" value="#{videoImpl.uploadedVideoName}" />
+									</p:commandButton>
+									<p:commandButton id="decline" value="No" onclick="confirmation.hide()" type="button" />   
+								</p:confirmDialog>  
+							</h:form>
+						</div>
+					</div>
+				</div>
+				<div class="sidebar sidebar_left">
+					<div class="widget-container widget_search">
+					</div>
+				</div>
+			   <div class="clear"></div>
+			</div>
+		</div>
+	</body>
+</html>

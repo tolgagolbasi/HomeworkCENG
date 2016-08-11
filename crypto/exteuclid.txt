@@ -1,0 +1,22 @@
+b:=8;
+a:=60;
+x:=0;
+lastx:=1;
+y:=1;
+lasty:=0;
+while b ne 0 do
+    quotient:=a div b;
+    temp:=b;
+    b:=a mod b;
+    a:=temp;
+    x:=lastx - quotient*x;
+    lastx:=x;
+    y:=lasty - quotient*y;
+    lasty:=y;
+end while;
+"Gcd";
+a;
+"X";
+lastx;
+"Y";
+lasty;

@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	  xmlns:h="http://java.sun.com/jsf/html"
+	  xmlns:f="http://java.sun.com/jsf/core"
+	  xmlns:p="http://primefaces.org/ui"
+	  xmlns:ui="http://java.sun.com/jsf/facelets">
+	<h:head>
+		<title>Prototube.com - #{videoImpl.videoname}</title>
+		<h:outputStylesheet library="css" name="style.css"  />
+		<h:outputStylesheet library="css" name="light.css"  />
+		<h:outputStylesheet library="css" name="video-js.min.css" />
+		<h:outputScript library="js" name="video.min.js" />
+	</h:head>
+	<body>
+		<div class="body_wrap">
+			<div class="header">
+				<div class="logo">
+					<a href="index.xhtml"><h:graphicImage library="images" name="logo.png" width="188" height="135"/></a>
+					<h1>Prototube.com - A Senior Project</h1>
+				</div>
+				<div class="topmenu">
+					<ul class="dropdown">
+						<li><h:link outcome="index" ><span>Home</span></h:link></li>
+						<li><h:link outcome="register" rendered="#{!userLogin.logged}"><span>Register</span></h:link></li>
+						<li><h:link outcome="login" rendered="#{!userLogin.logged}"><span>Login</span></h:link></li>
+						<li><h:link outcome="upload" rendered="#{userLogin.logged}"><span>Upload</span></h:link></li>
+						<li><h:link outcome="info" rendered="#{userLogin.logged}"><span>Info</span></h:link></li>
+						<li><h:link outcome="admin" rendered="#{(userLogin.usertype==2)||(userLogin.usertype==3)}"><span>Admin</span></h:link></li>
+						<li><h:form>
+								<h:commandLink action="#{userLogin.logout()}" rendered="#{userLogin.logged}">
+									<span>Logout</span></h:commandLink>
+							</h:form></li>
+					</ul>
+					<div class="clear"></div>
+				</div>
+			</div>
+			<div class="content_top">
+			</div>
+			<div class="middle cols2_fix">
+				<div class="content_wrapper">
+					<div class="content">
+						<div class="post-item frame_box">
+							<div class="post-media">
+								<h:outputFormat value="#{videoImpl.fGetVideo()}" escape="false"/>
+							</div>
+							<div class="post-title">
+								<h1>#{videoImpl.videoname} </h1>
+								<p/>
+								<h3>Rating: #{videoImpl.rating}</h3>
+								<h:form rendered="#{userLogin.logged}">
+									<p:growl id="messages" showDetail="true"/>
+									<h:inputHidden id="videoId" value="#{videoImpl.videoId}" />
+									<p:rating value="#{videoImpl.rating}" id="rating_rating">
+										<p:ajax event="rate" listener="#{videoImpl.handleRate}" update="messages" />
+									</p:rating>
+								</h:form>
+								<h:form rendered="#{!userLogin.logged}">
+									<p:rating value="#{videoImpl.rating}" disabled="true" />
+
+								</h:form>
+								<p/>
+							</div>
+							<div class="entry">
+								<div class="clear"></div>
+							</div>
+						</div>
+						<div class="add-comment" id="addcomments">
+							<h:outputText rendered="#{!userLogin.logged}"><h2>Login to make comment</h2></h:outputText>
+							<h:outputText rendered="#{userLogin.logged}"><h2>Leave your Comment:</h2></h:outputText>
+							<div class="comment-form">
+								<h:form rendered="#{userLogin.logged}">
+									<div class="row">
+										<label>Comment:</label>
+										<h:inputTextarea id="comment" value="#{videoImpl.comment}" cols="30" rows="10" class="textarea" required="true" validatorMessage="Username must be between 4 and 300 characters">
+											<f:validateLength minimum="4" maximum="300" />
+										</h:inputTextarea>
+									</div>
+
+									<input type="hidden" name="userId" value="#{userLogin.userid}" />
+									<h:inputHidden id="videoId" value="#{videoImpl.videoId}" />
+									<h:message for="comment" style="color:red" />
+									<h:commandButton value="Submit" action="#{videoImpl.fAddComment()}" class="btn-submit">
+										<f:ajax execute="@form" render="ajaxMessage1"/>
+									</h:commandButton>
+									<div class="clear"></div>
+									<h2><h:outputText value="#{videoImpl.message}"
+													  id="ajaxMessage1"/></h2>
+								</h:form>
+							</div>
+						</div>
+						<div class="comment-list">
+							<h2>Comments added:</h2>
+							<ol><h:form>
+									<h:panelGroup id="commentlist">
+										<ui:repeat value="#{videoImpl.fGetAllComments()}" var="v">
+											<li class="comment">
+												<div class="comment-body">
+													<div class="comment-avatar"><h:graphicImage library="images" name="temp/avatar_1.gif" width="53" height="53" /></div>
+													<div class="comment-text">
+														<div class="comment-author"><a href="#" class="link-author"><h:outputText value="#{v.username}" /></a>, <span class="comment-date">#{v.commentTime}</span></div>
+														<div class="comment-entry"><h:outputText value="#{v.comment}"/></div>
+													</div>
+													<div class="clear"></div>
+												</div>
+											</li>
+										</ui:repeat></h:panelGroup><p:poll update="commentlist" interval="5" /></h:form>
+							</ol>
+						</div>
+					</div>
+				</div>
+				<div class="sidebar sidebar_left">
+					<div class="widget-container widget_search"></div>
+				</div>
+				<div class="clear"></div>
+			</div>
+		</div>
+	</body>
+</html>

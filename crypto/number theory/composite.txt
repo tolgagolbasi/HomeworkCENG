@@ -1,0 +1,111 @@
+crt:= function(a,n)
+      s:=[0,0,0,0,0];
+      t:=[0,0,0,0,0];
+      if #a ne #n then
+         printf "length of a not equal to length of n";
+         quit;
+         end if;
+      for x in n do
+          for y in n do
+              if x ne y then
+                  if GCD(x,y) ne 1 then
+                      quit;
+                  end if;
+              end if;
+          end for;
+      end for;
+      npro:=1;
+      for x in n do
+          npro:=x*npro;
+      end for;
+      i:=1;
+      for x in n do
+          s[i]:=npro div x;
+          i:=i+1;
+      end for;
+      i:=1;
+      for x in n do
+          t[i]:=Modinv(s[i],n[i]);
+          i:=i+1;
+      end for;
+      z:=0;
+      i:=1;
+      for x in n do
+          z:=z+s[i]*t[i]*a[i];
+          i:=i+1;
+      end for;
+      return z;
+end function;
+findhm:= function(p)
+      for h in [1 .. 100] do
+          for m in [1 .. 100] do
+              if (p-1) eq (2^h)*m then
+                 if IsOdd(m) then
+                    return <h,m>;
+                 end if;
+              end if;
+          end for;
+      end for;
+      return <0,0>;
+end function;
+squareroot:= function(a,p,f)
+if ((a^((p-1)div 2)) mod p) eq 1 then
+   t:=findhm(p);
+   S:=t[1];
+   if S eq 1 then
+      return a^((p+1)div 4) mod p;
+      end if;
+   Q:=t[2];
+   repeat
+         gama:=Random(2,p-1);
+   until ((gama^((p-1)div 2)) mod p) eq p-1;
+   a1:=a^Q mod p;
+   c:=gama^Q mod p;
+   r:=a^(Floor((Q+1)/2)) mod p;
+   m:=S;
+   i:=0;
+   if a1 ne 1 then
+   repeat
+         i:=i+1;
+   until a1^(2^i) mod p eq 1;
+   b1:=2^(m-i-1);
+   b:=c^b1  mod p;
+   r:= r*b mod p;
+   end if;
+   b:=(a-r^2) mod p^(f+1);
+   a:=2*r*p^f;
+   n:=p^(f+1);
+   d:=GCD(a,n);
+   if b mod d ne 0 then
+      "no solution";
+    return 0;
+      exit;
+   else
+       a1:=a div d;
+       b1:=b div d;
+       n1:=n div d;
+       t:=Modinv(a1,n1);
+       h:=t*b1 mod n1;
+   end if;
+   c:=r+h*p^f;
+   return c;
+end if;
+return 0;
+end function;
+a:=10;
+p:=147;
+b:=Factorization(p);
+S:=[];
+W:=[];
+for i in [1..#b] do
+    t:=b[i];
+    if (t[1] mod 2) eq 1 then
+      x:=squareroot(a,t[1],t[2]-1);
+      W:=Append(W,(t[1])^(t[2]));
+      S:=Append(S, x);
+    else
+        quit;
+    end if;
+end for;
+sonuc:=crt(S,W);
+sonuc;

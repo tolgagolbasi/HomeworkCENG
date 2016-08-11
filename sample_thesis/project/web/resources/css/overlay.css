@@ -1,0 +1,11 @@
+/* 
+    Document   : overlay
+    Created on : May 2, 2012, 5:52:34 PM
+    Author     : serdar
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.ui-widget-overlay {
+    height: 0px !important;
+}

@@ -1,0 +1,63 @@
+f := function(x,a,b,p)
+	i:=x mod 3;
+	if i eq 0 then
+		return x*x mod p;
+        end if;
+	if i eq 1 then
+    		return a*x mod p;
+        end if;
+	if i eq 2 then
+		return b*x mod p;
+        end if;
+end function;
+g:=function(x,n,p)
+	i:=x mod 3;
+	if i eq 0 then
+		return 2*n mod (p-1);
+        end if;
+	if i eq 1 then
+		return (n+1) mod (p-1);
+        end if;
+	if i eq 2 then
+		return n mod (p-1);
+        end if;
+end function;
+h:=function(x,n,p)
+	i:=x mod 3;
+	if i eq 0 then
+		return 2*n mod (p-1);
+        end if;
+	if i eq 1 then
+		return n mod (p-1);
+        end if;
+	if i eq 2 then
+		return (n+1) mod (p-1);
+        end if;
+end function;
+pollardrho := function(a,b,p)
+    a1:=0;
+    b1:=0;
+    a2:=a1;
+    b2:=b1;
+    x1:=1;//x0
+    x2:=x1;
+    j:=0;
+    while(j lt p) do
+        j:=j+1;
+        a1:=g(x1,a1,p);
+        b1:=h(x1,b1,p);
+        x1:=f(x1,a,b,p);
+        a2:=g(f(x2,a,b,p),g(x2,a2,p),p);
+        b2:=h(f(x2,a,b,p),h(x2,b2,p),p);
+        x2:=f(f(x2,a,b,p),a,b,p);
+        if x1 eq x2 then
+            r:=b2-b1;
+            if r eq 0 then 
+                return "fail";
+            end if;
+            x:=Ceiling((a1-a2) /(b2-b1)) mod (p-1);
+            return x;    
+        end if;
+    end while;
+end function;
+pollardrho(2,5,1019);

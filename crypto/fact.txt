@@ -1,0 +1,92 @@
+F:=GF(2);
+//F:=Rationals();
+
+FormFactorBase := function(f)
+	fb := [];
+	i:=1;
+	while i lt f do
+		i := NextPrime(i);
+		fb := Append(fb, i);
+	end while;
+	return fb;
+end function;
+
+SqrtIntegerPart := function(n)
+	x := 2^Ceiling(Log(2,n)/2);
+	y := Floor((x+Floor(n/x))/2);
+	while y lt x do
+		x := y;
+		y := Floor((x+Floor(n/x))/2);
+	end while;
+	return x;
+end function;
+
+ExponentVector := function(k, fb)
+	V:=[];
+        T:=[];
+	for i:=1 to #fb do
+		j := 0;
+		while IsDivisibleBy(k, fb[i]) do
+			k := k div fb[i];
+			j := j+1;
+		end while;
+		V := Append(V, F!j);
+                T := Append(T, j);
+	end for;
+	V := Append(V, F!0);
+	if k eq 1 then 
+		return V, T, true;
+	else
+		return V, T, false;
+	end if;	
+end function;
+
+FactorCongruentSquares := function(n)
+	s := SqrtIntegerPart(n);
+	f := SqrtIntegerPart(s);
+	fb := FormFactorBase(f);
+	print fb;
+	M := [];
+        MT := [];
+	i := 1; 
+	while #M lt #fb do
+		V, T, ck := ExponentVector((s+i)^2 mod n, fb);
+		if ck eq true then 
+			print [s+i, (s+i)^2 mod n];
+			M := Append(M, V);
+                        MT := Append(MT, [s+i, (s+i)^2 mod n]);
+		end if;
+		i := i+1;
+	end while;
+
+	X := Matrix(F, #M, #fb + 1, M);
+	N := Nullspace(X);
+	N := Basis(N);
+
+	return M,N,MT,fb;
+end function;
+
+n := 1639;
+
+M,N,MT,fb := FactorCongruentSquares(n);
+MT;
+TT:=[];
+R:=1;
+L:=1;
+M;
+for i:=1 to #N do
+        TP:=[];      
+        k:=1;
+        TN:=N[i];
+        for k:=1 to #fb do
+                if TN[k] eq 1 then
+                    R:=R*MT[k][2];
+                    L:=L*MT[k][1];
+                end if;
+        end for;
+        R,L;
+        if (Floor(Sqrt(R)) mod n) ne (L mod n) then 
+                print Gcd(Floor((L mod n)-Sqrt(R)),n);
+                print Gcd(Floor((L mod n)+Sqrt(R)),n);
+        end if;
+end for;

@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	  xmlns:h="http://java.sun.com/jsf/html"
+	  xmlns:f="http://java.sun.com/jsf/core"
+
+	  xmlns:ui="http://java.sun.com/jsf/facelets">
+	<h:head>
+		<title>Prototube.com </title>
+		<h:outputStylesheet library="css" name="style.css"  />
+		<h:outputStylesheet library="css" name="light.css"  />
+		<h:outputScript library="js" name="jquery.min.js" />
+		<h:outputScript library="js" name="preloadCssImages.js" />
+		<h:outputScript library="js" name="jquery.easing.1.3.js" />
+		<h:outputScript library="js" name="jquery.tools.min.js" />
+		<h:outputScript library="js" name="general.js" />
+		<h:outputScript library="js" name="slides.min.jquery.js" />
+		<h:outputScript library="js" name="jquery.preloadify.min.js" />
+		<script type="text/javascript">
+			jQuery(document).ready(function($) {
+				$(".preloader").preloadify({ imagedelay:300 });
+			});
+		</script>
+	</h:head>
+	<body>
+		<div class="body_wrap">
+			<div class="header">
+				<div class="logo">
+					<a href="index.html"><h:graphicImage library="images" name="logo.png" width="188" height="135"/></a>
+					<h1>Video Platform </h1>
+				</div>
+				<div class="topmenu">
+					<ul class="dropdown">
+						<li class="menu-item-home current-menu-item"><h:link outcome="index" ><span>Home</span></h:link></li>
+						<li><h:link outcome="register" rendered="#{!userLogin.logged}"><span>Register</span></h:link></li>
+						<li><h:link outcome="login" rendered="#{!userLogin.logged}"><span>Login</span></h:link></li>
+						<li><h:link outcome="upload" rendered="#{userLogin.logged}"><span>Upload</span></h:link></li>
+						<li><h:link outcome="info" rendered="#{userLogin.logged}"><span>Info</span></h:link></li>
+						<li><h:link outcome="admin" rendered="#{(userLogin.usertype==2)||(userLogin.usertype==3)}"><span>Admin</span></h:link></li>
+						<li><h:form>
+								<h:commandLink action="#{userLogin.logout()}" rendered="#{userLogin.logged}">
+									<span>Logout</span></h:commandLink>
+							</h:form></li>
+					</ul>
+					<div class="clear"></div>
+				</div>
+			</div>
+			<div class="content_top">
+				<div class="breadcrumbs">
+				</div>
+			</div>
+			<div class="middle cols2_fluid">
+				<div class="content_wrapper">
+					<div class="content">
+						<script type="text/javascript" src="js/jquery.isotope.min.js"></script>
+						<div id="big_container">
+							<ui:repeat value="#{videoImpl.fGetAllVideo()}" var="v">
+								<div class="item item-video" data-featured="1" data-rates="30" data-comments="15">
+									<div class="media_block preloader">
+										<img src="#{videoImpl.fGetThumbnail(v.videoId)}" width="470" height="264" />
+										<h:link value="&nbsp;" outcome="video" class="zoom">
+											<f:param name="video" value="#{v.videoId}" />
+										</h:link>
+									</div>
+									<div class="title"><h:link value="#{v.videoName}" outcome="video" class="name">
+											<f:param name="video" value="#{v.videoId}" />
+										</h:link></div>
+									<div class="descr"></div>
+								</div>
+							</ui:repeat></div>
+					</div>
+				</div>
+				<div class="sidebar sidebar_left">
+					<div class="widget-container widget_search"></div> 
+				</div>
+				<div class="clear"></div>
+			</div></div>
+	</body>
+</html>

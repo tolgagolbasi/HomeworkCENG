@@ -1,0 +1,33 @@
+findhm:= function(p)
+	for h in [1 .. 100] do
+		for m in [1 .. 100] do
+			if (p-1) eq (2^h)*m then 
+				if IsOdd(m) then
+					return <h,m>;
+				end if;
+			end if;
+		end for;
+	end for;
+	return <0,0>;
+end function;
+a:=12;
+p:=13;
+if ((a^((p-1)div 2)) mod p) eq 1 then
+t:=findhm(p);
+h:=t[1];
+m:=t[2];
+h;
+m;
+repeat
+gama:=Random(2,p-1);
+until ((gama^((p-1)div 2)) mod p) eq p-1;
+gama;
+gama1:=gama^m;
+a1:=a^m;
+x:=Log(gama1,a1);
+x;
+one:=gama1^(x/2);
+two:=a^(Floor(m/2));
+beta:=one/two;
+beta;
+end if

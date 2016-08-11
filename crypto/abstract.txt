@@ -1,0 +1,4 @@
+Finite Field Extensions is widely used in multivariate cryptography applications. 
+The fact that solving systems of multivariate polynomial equations are proven to be 
+NP-Hard or NP-Complete makes them perfect candidates for Post-Quantum Cryptography. 
+In this presentation we will look at the logic behind contruction of Finite Field Extensions.

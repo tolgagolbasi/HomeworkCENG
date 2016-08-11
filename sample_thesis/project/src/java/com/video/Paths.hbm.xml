@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Mar 17, 2012 12:59:01 PM by Hibernate Tools 3.2.1.GA -->
+<hibernate-mapping>
+	<class name="com.video.Paths" table="paths" catalog="senior_project">
+		<id name="pathId" type="java.lang.Integer">
+			<column name="PATH_ID" />
+			<generator class="identity" />
+		</id>
+		<property name="path" type="string">
+			<column name="PATH" length="600" not-null="true" />
+		</property>
+		<property name="videoId" type="int">
+			<column name="VIDEO_ID" not-null="true" />
+		</property>
+	</class>
+</hibernate-mapping>

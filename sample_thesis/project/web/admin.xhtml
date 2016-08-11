@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:h="http://java.sun.com/jsf/html" xmlns:f="http://java.sun.com/jsf/core" xmlns:p="http://primefaces.org/ui" xmlns:ui="http://java.sun.com/jsf/facelets">
+	<h:head>
+		#{videoImpl.fCheckStatus(userLogin.logged)}
+		<title>Prototube.com - Admin</title>
+		<h:outputStylesheet library="css" name="style.css" />
+		<h:outputStylesheet library="css" name="light.css" />
+		#{usersImpl.fCheckAdmin()}
+	</h:head>
+	<body>
+		<div class="body_wrap">
+			<div class="header">
+				<div class="logo">
+					<a href="index.xhtml"><h:graphicImage library="images" name="logo.png" width="188" height="135" /></a>
+					<h1>Prototube.com - A Senior Project</h1>
+				</div>
+				<div class="topmenu">
+					<ul class="dropdown">
+						<li><h:link outcome="index">
+								<span>Home</span>
+							</h:link></li>
+						<li><h:link outcome="register" rendered="#{!userLogin.logged}">
+								<span>Register</span>
+							</h:link></li>
+						<li><h:link outcome="login" rendered="#{!userLogin.logged}">
+								<span>Login</span>
+							</h:link></li>
+						<li><h:link outcome="upload" rendered="#{userLogin.logged}">
+								<span>Upload</span>
+							</h:link></li>
+						<li><h:link outcome="info" rendered="#{userLogin.logged}">
+								<span>Info</span>
+							</h:link></li>
+						<li class="menu-item-home current-menu-item"><h:link outcome="admin" rendered="#{(userLogin.usertype==2)||(userLogin.usertype==3)}">
+								<span>Admin</span>
+							</h:link></li>
+						<li><h:form>
+								<h:commandLink action="#{userLogin.logout()}" rendered="#{userLogin.logged}">
+									<span>Logout</span>
+								</h:commandLink>
+							</h:form></li>
+					</ul>
+					<div class="clear"></div>
+				</div>
+
+			</div>
+			<div class="content_top"></div>
+			<div class="middle cols2_fix">
+				<div class="content_wrapper">
+					<div class="content">
+						<p:tabView id="tabView">
+							<p:tab id="tab1" title="Videos" rendered="#{(userLogin.usertype==2)||(userLogin.usertype==3)}">
+								<h:form id="form">
+									<p:growl id="messages" showDetail="true" />
+									<p:dataTable var="video" value="#{videoImpl.adminvideolist}" id="videoList" editable="true" rowKey="#{video.videoId}" paginator="true" rows="20">
+										<p:ajax event="rowEdit" update="@this" listener="#{videoImpl.fVideoAdminUpdate}" />
+										<f:facet name="header">  
+											Videos 
+										</f:facet>
+										<p:column headerText="Video Id" style="width:300px" rendered="false">
+											<h:inputHidden value="#{video.videoId}" />
+										</p:column>
+										<p:column headerText="Video Name" style="width:300px" filterBy="#{video.videoName}">
+											<p:cellEditor>
+												<f:facet name="output">
+													<h:outputText value="#{video.videoName}" />
+												</f:facet>
+												<f:facet name="input">
+													<p:inputText value="#{video.videoName}" style="width:100%" label="Video Name" />
+												</f:facet>
+											</p:cellEditor>
+										</p:column>
+										<p:column headerText="Username" style="width:125px" filterBy="#{video.username}">
+											<h:outputText value="#{video.username}" />
+										</p:column>
+										<p:column headerText="Total Votes" style="width:125px">
+											<h:outputText value="#{video.totalVotes}" />
+										</p:column>
+										<p:column headerText="Average" style="width:125px">
+											<h:outputText value="#{video.average}" />
+										</p:column>
+										<p:column headerText="Upload Time" style="width:125px">
+											<h:outputText value="#{video.uploadTime}" />
+										</p:column>
+										<p:column headerText="Status" style="width:125px">
+											<p:cellEditor>
+												<f:facet name="output">
+													<h:outputText value="Active" rendered="#{video.status==1}" />
+													<h:outputText value="Deleted" rendered="#{video.status==2}" />
+												</f:facet>
+												<f:facet name="input">
+													<h:selectOneMenu value="#{video.status}">
+														<f:selectItem itemValue="1" itemLabel="Active" />
+														<f:selectItem itemValue="2" itemLabel="Deleted" />
+													</h:selectOneMenu>
+												</f:facet>
+											</p:cellEditor>
+										</p:column>
+										<p:column headerText="Edit" style="width:50px">
+											<p:rowEditor />
+										</p:column>
+									</p:dataTable>
+								</h:form>
+							</p:tab>
+							<p:tab id="tab2" title="Users" rendered="#{userLogin.usertype==3}">
+								<h:form id="form2">
+									<p:growl id="messages" showDetail="true" />
+									<p:dataTable var="user" value="#{usersImpl.userlist}" id="userList" editable="true" rowKey="#{user.userId}" paginator="true" rows="20" >
+										<p:ajax event="rowEdit" update="@this" listener="#{usersImpl.fUserAdminUpdate}" />
+										<f:facet name="header">  
+											Users 
+										</f:facet>
+										<p:column headerText="Video Id" style="width:300px" rendered="false">
+											<h:inputHidden value="#{user.userId}" />
+										</p:column>
+										<p:column headerText="Username" style="width:125px" filterBy="#{user.username}">
+											<h:outputText value="#{user.username}" />
+										</p:column>
+										<p:column headerText="Email" style="width:125px" filterBy="#{user.email}">
+											<h:outputText value="#{user.email}" />
+										</p:column>
+										<p:column headerText="Type" style="width:125px">
+											<p:cellEditor>
+												<f:facet name="output">
+													<h:outputText value="Normal" rendered="#{user.type==1}" />
+													<h:outputText value="Video-Admin" rendered="#{user.type==2}" />
+													<h:outputText value="Admin" rendered="#{user.type==3}" />
+													<h:outputText value="Suspended" rendered="#{user.type==99}" />
+												</f:facet>
+												<f:facet name="input">
+													<h:selectOneMenu value="#{user.type}">
+														<f:selectItem itemValue="1" itemLabel="Normal" />
+														<f:selectItem itemValue="2" itemLabel="Video-Admin" />
+														<f:selectItem itemValue="3" itemLabel="Admin" />
+														<f:selectItem itemValue="99" itemLabel="Suspended" />
+													</h:selectOneMenu>
+												</f:facet>
+											</p:cellEditor>
+										</p:column>
+										<p:column headerText="Edit" style="width:50px">
+											<p:rowEditor />
+										</p:column>
+									</p:dataTable>
+								</h:form>
+							</p:tab>
+						</p:tabView>
+					</div>
+				</div>
+				<div class="sidebar sidebar_left">
+					<div class="widget-container widget_search">
+					</div>
+				</div>
+				<div class="clear"></div>
+			</div></div>
+	</body>
+</html>

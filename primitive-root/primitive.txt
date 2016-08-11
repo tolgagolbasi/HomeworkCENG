@@ -1,0 +1,74 @@
+phifunc := function(m)
+phi:=0;
+phiset:=[];
+for i:=1 to m by 1 do
+	if GCD(m,i) eq 1 then
+		Append(~phiset,i);
+		phi:=phi+1;
+	end if;
+end for;
+return phi;
+end function;
+
+primroot := function(m)
+phi:=0;
+phiset:=[];
+check:=[];
+pr:=[];
+countpr:=0;
+
+for i:=2 to m by 1 do
+	if GCD(m,i) eq 1 then
+		Append(~phiset,i);
+		Append(~check,0);
+		phi:=phi+1;
+	end if;
+end for;
+for x in phiset do
+	for i:=1 to phi do
+		r:=(x^i mod m);
+		for j:=1 to phi do
+			if (check[j] eq 0) and (r eq phiset[j]) then
+				check[j]:=1;
+			end if;
+
+		end for;	
+	end for;
+	t:=1;
+	for j:=1 to phi do
+		if check[j] eq 0 then
+			t:=0;
+			break;
+		end if;
+	end for;
+	if t eq 1 then
+		Append(~pr,x);
+		countpr:=countpr+1;
+	end if;
+	for j:=1 to phi do
+		check[j]:=0;
+	end for;
+end for;
+pr;	
+return countpr;
+end function;
+
+m:=14;
+
+if m gt 0 then
+	if (m eq 1) or (m eq 2) or (m eq 4) then
+		primroot(m);
+	else
+		a:=Factorization(m);
+		if #a eq 1 then
+			count:=primroot(m);
+		else if #a eq 2 then
+			b:=a[1];
+			if b[1] eq 2 and b[2] eq 1 then
+				count:=primroot(m);
+			end if;
+		      end if;
+		end if;
+	end if;
+end if;
+count eq phifunc(phifunc(m))

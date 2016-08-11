@@ -1,0 +1,15 @@
+Z13 := FiniteField(13);
+P<x> := PolynomialRing(Z13);
+f := 9*x^3 + x^2 + x + 1;
+IsIrreducible(f);
+I := ideal<P|f>;
+Z133<x> := P/I;
+IsField(Z133);
+Random(Z133);
+R<t> := PolynomialRing(Z133);
+h := 6*t^5 + (x^2+3*x+1)*t^3 + (2*x + 1);
+IsIrreducible(h);
+I := ideal<R|h>;
+Z1335<t> := R/I;
+IsField(Z1335);
+Random(Z1335);

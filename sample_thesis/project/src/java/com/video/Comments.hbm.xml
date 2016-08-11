@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Mar 17, 2012 4:55:57 PM by Hibernate Tools 3.2.1.GA -->
+<hibernate-mapping>
+	<class name="com.video.Comments" table="comments" catalog="senior_project">
+		<id name="commentId" type="java.lang.Integer">
+			<column name="COMMENT_ID" />
+			<generator class="identity" />
+		</id>
+		<property name="videoId" type="int">
+			<column name="VIDEO_ID" not-null="true" />
+		</property>
+		<property name="userId" type="int">
+			<column name="USER_ID" not-null="true" />
+		</property>
+		<property name="commentTime" type="timestamp">
+			<column name="COMMENT_TIME" length="19" not-null="true" />
+		</property>
+		<property name="comment" type="string">
+			<column name="COMMENT" length="600" not-null="true" />
+		</property>
+	</class>
+</hibernate-mapping>

@@ -1,0 +1,40 @@
+a:=[17, 42, 45, 64, 76];
+n:=[7, 11, 45, 101, 2];
+s:=[0,0,0,0,0];
+t:=[0,0,0,0,0];
+if #a ne #n then
+    printf "length of a not equal to length of n";
+    quit;
+end if;
+for x in n do
+    for y in n do
+        if x ne y then
+            if GCD(x,y) ne 1 then
+                quit;
+            end if;
+        end if;
+    end for;
+end for;
+
+npro:=1;
+
+for x in n do
+    npro:=x*npro;
+end for;
+i:=1;
+for x in n do
+    s[i]:=npro div x;
+    i:=i+1;
+end for;
+i:=1;
+for x in n do
+    t[i]:=Modinv(s[i],n[i]);
+    i:=i+1;
+end for;
+z:=0;
+i:=1;
+for x in n do
+    z:=z+s[i]*t[i]*a[i];
+    i:=i+1;
+end for;
+z;

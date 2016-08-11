@@ -1,0 +1,40 @@
+SqrtIntegerPart := function(n)
+        if n lt 0 then 
+            return 0;
+        end if;
+	x := 2^Ceiling(Log(2,n)/2);
+	y := Floor((x+Floor(n/x))/2);
+	while y lt x do
+		x := y;
+		y := Floor((x+Floor(n/x))/2);
+	end while;
+	return x;
+end function;
+
+Ferfactor:=function(n)
+	x:=SqrtIntegerPart(n);
+	t:=2*x+1;
+	r:=x*x-n;
+	while (r ne SqrtIntegerPart(r)^2) do
+		r:=r+t;
+		t:=t+2;
+	end while;
+	x:=(t-1)/2;
+	y:=SqrtIntegerPart(r);
+	sol:=[];
+	sol[1]:=x-y;
+	sol[2]:=x+y;
+	return sol;
+end function;
+
+x:=12121111*2121;
+if (x mod 2 eq 1) then
+        time cev:=Ferfactor(x);
+        if (x eq cev[1]*cev[2]) then
+            cev[1];
+            cev[2];
+	else
+        	print("false");
+        end if;
+end if;
+

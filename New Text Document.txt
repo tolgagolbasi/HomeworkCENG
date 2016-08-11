@@ -1,0 +1,15 @@
+while continued fraction factorization is not the fastest factorization algorithm we know today it is still in the same 
+time complexity category as number field sieve and ecm. This method has a theoretical runtime of
+O(ep2logNloglogN), and was the fastest prime factorization algorithm in use until the development of the quadratic sieve
+method.
+Though the quadratic residues produced by the continued fraction method are quite small,
+trial dividing them takes a long time. It might be that lot's of Qn do not decompose over
+the chosen factor basis and lot's of work is done without getting a relation. Therefore the
+continued fraction method is limited to factoring numbers with up to 50 digits.
+This problem of the continued fraction algorithm was overcome with another algorithm,
+the so called quadratic sieve algorithm. The main advantage of the quadratic sieve
+algorithm over CFRAC is the improvement that it uses a sieve to find candidates zn which
+indeed decompose over the factor basis. Since sieving is much cheaper than trial dividing
+lot of numbers, this trick let to a big practical improvement, as we will see in Section 5.6.
+Additionally, the size of the elements zn is approximately the same as the size of the zn
+generated in the CFRAC algorithm.

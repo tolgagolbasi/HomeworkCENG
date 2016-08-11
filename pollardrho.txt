@@ -1,0 +1,42 @@
+clear;
+
+
+tester := function(algorithm, nbits, trial)
+	t := Cputime();
+	for i:=1 to trial do
+		N:=Random([5..(2^nbits)]);
+		p:=algorithm(N);
+	end for;
+	return Cputime(t)/trial;
+end function;
+
+
+func:=function(x,b,N)
+	return (x*x+b) mod N;
+end function;
+
+pollard:=function(N)
+	g:=0;
+	while g lt N do
+		b:=Random([1..N-3]);
+		s:=Random([0..N-1]);
+		g:=1; A:=s; B:=s;
+		while(g eq 1) do
+			A:=func(A,b,N);
+			B:=func(func(B,b,N),b,N);
+			g:=GCD(A-B,N);
+		end while;
+	end while;
+	a:=N div g;
+	assert N eq a*g;
+	return g;
+end function;
+
+
+for i:=20 to 50 do
+	print i, tester(pollard, i, 23);
+end for;
+
+
+
+

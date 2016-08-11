@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated Mar 22, 2012 11:18:52 AM by Hibernate Tools 3.2.1.GA -->
+<hibernate-mapping>
+	<class name="com.user.Users" table="users" catalog="senior_project">
+		<id name="userId" type="java.lang.Integer">
+			<column name="USER_ID" />
+			<generator class="identity" />
+		</id>
+		<property name="username" type="string">
+			<column name="USERNAME" length="25" not-null="true" />
+		</property>
+		<property name="password" type="string">
+			<column name="PASSWORD" length="20" not-null="true" />
+		</property>
+		<property name="email" type="string">
+			<column name="EMAIL" length="100" not-null="true" />
+		</property>
+		<property name="type" type="int">
+			<column name="TYPE" not-null="true" />
+		</property>
+	</class>
+</hibernate-mapping>

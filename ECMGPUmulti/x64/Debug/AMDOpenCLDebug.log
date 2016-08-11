@@ -1,0 +1,2387 @@
+
+*************************************
+Log started: Mon Nov 18 09:50:17 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 954, instruction 495. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1006, instruction 541. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1082, instruction 608. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1123, instruction 644. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1165, instruction 681. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1183, instruction 696. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1263, instruction 763. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1597, instruction 1055. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1604, instruction 1061. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1610, instruction 1066. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1701, instruction 1144. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2049, instruction 1450. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2056, instruction 1456. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2062, instruction 1461. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2125, instruction 1515. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2166, instruction 1551. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2208, instruction 1588. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2226, instruction 1603. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2306, instruction 1670. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2640, instruction 1962. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2647, instruction 1968. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2653, instruction 1973. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2744, instruction 2051. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3092, instruction 2357. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3099, instruction 2363. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3105, instruction 2368. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3192, instruction 2450. Performance may be slow.
+Message: 	whileloop
+
+
+*************************************
+Log started: Mon Nov 18 09:53:23 2013
+
+
+*************************************
+
+
+***********************************
+Log ended: Mon Nov 18 09:53:28 2013
+
+
+***********************************
+
+
+*************************************
+Log started: Mon Nov 18 09:54:07 2013
+
+
+*************************************
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+*************************************
+Log started: Mon Nov 18 09:55:26 2013
+
+
+*************************************
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+*************************************
+Log started: Mon Nov 18 09:58:59 2013
+
+
+*************************************
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+*************************************
+Log started: Mon Nov 18 09:59:43 2013
+
+
+*************************************
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+
+*************************************
+Log started: Mon Nov 18 10:05:28 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 952, instruction 492. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1004, instruction 538. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1080, instruction 605. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1121, instruction 641. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1163, instruction 678. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1181, instruction 693. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1261, instruction 760. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1595, instruction 1052. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1602, instruction 1058. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1608, instruction 1063. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1699, instruction 1141. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2047, instruction 1447. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2054, instruction 1453. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2060, instruction 1458. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2123, instruction 1512. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2164, instruction 1548. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2206, instruction 1585. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2224, instruction 1600. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2304, instruction 1667. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2638, instruction 1959. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2645, instruction 1965. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2651, instruction 1970. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2742, instruction 2048. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3090, instruction 2354. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3097, instruction 2360. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3103, instruction 2365. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3190, instruction 2447. Performance may be slow.
+Message: 	whileloop
+
+
+*************************************
+Log started: Mon Nov 18 10:09:02 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1030, instruction 568. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1088, instruction 620. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1164, instruction 687. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1205, instruction 723. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1247, instruction 760. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1265, instruction 775. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1345, instruction 842. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1679, instruction 1134. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1686, instruction 1140. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1692, instruction 1145. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1783, instruction 1223. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2131, instruction 1529. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2138, instruction 1535. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2144, instruction 1540. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2207, instruction 1594. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2248, instruction 1630. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2290, instruction 1667. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2308, instruction 1682. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2388, instruction 1749. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2722, instruction 2041. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2729, instruction 2047. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2735, instruction 2052. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2826, instruction 2130. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3174, instruction 2436. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3181, instruction 2442. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3187, instruction 2447. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3274, instruction 2529. Performance may be slow.
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+
+*************************************
+Log started: Mon Nov 18 10:09:48 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1090, instruction 625. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1148, instruction 677. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1224, instruction 744. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1265, instruction 780. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1307, instruction 817. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1325, instruction 832. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1405, instruction 899. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1739, instruction 1191. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1746, instruction 1197. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1752, instruction 1202. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1843, instruction 1280. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2191, instruction 1586. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2198, instruction 1592. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2204, instruction 1597. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2267, instruction 1651. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2308, instruction 1687. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2350, instruction 1724. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2368, instruction 1739. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2448, instruction 1806. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2782, instruction 2098. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2789, instruction 2104. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2795, instruction 2109. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2886, instruction 2187. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3234, instruction 2493. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3241, instruction 2499. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3247, instruction 2504. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3334, instruction 2586. Performance may be slow.
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+
+*************************************
+Log started: Mon Nov 18 10:11:46 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1030, instruction 568. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1088, instruction 620. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1164, instruction 687. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1205, instruction 723. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1247, instruction 760. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1265, instruction 775. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1345, instruction 842. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1679, instruction 1134. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1686, instruction 1140. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1692, instruction 1145. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1783, instruction 1223. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2131, instruction 1529. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2138, instruction 1535. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2144, instruction 1540. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2207, instruction 1594. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2248, instruction 1630. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2290, instruction 1667. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2308, instruction 1682. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2388, instruction 1749. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2722, instruction 2041. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2729, instruction 2047. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2735, instruction 2052. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2826, instruction 2130. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3174, instruction 2436. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3181, instruction 2442. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3187, instruction 2447. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3274, instruction 2529. Performance may be slow.
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+
+*************************************
+Log started: Mon Nov 18 10:12:59 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1030, instruction 568. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1088, instruction 620. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1164, instruction 687. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1205, instruction 723. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1247, instruction 760. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1265, instruction 775. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1345, instruction 842. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1679, instruction 1134. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1686, instruction 1140. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1692, instruction 1145. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1783, instruction 1223. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2131, instruction 1529. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2138, instruction 1535. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2144, instruction 1540. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2207, instruction 1594. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2248, instruction 1630. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2290, instruction 1667. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2308, instruction 1682. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2388, instruction 1749. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2722, instruction 2041. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2729, instruction 2047. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2735, instruction 2052. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2826, instruction 2130. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3174, instruction 2436. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3181, instruction 2442. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3187, instruction 2447. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3274, instruction 2529. Performance may be slow.
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+
+*************************************
+Log started: Mon Nov 18 10:13:56 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1090, instruction 625. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1148, instruction 677. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1224, instruction 744. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1265, instruction 780. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1307, instruction 817. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1325, instruction 832. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1405, instruction 899. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1739, instruction 1191. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1746, instruction 1197. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1752, instruction 1202. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1843, instruction 1280. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2191, instruction 1586. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2198, instruction 1592. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2204, instruction 1597. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2267, instruction 1651. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2308, instruction 1687. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2350, instruction 1724. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2368, instruction 1739. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2448, instruction 1806. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2782, instruction 2098. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2789, instruction 2104. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2795, instruction 2109. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2886, instruction 2187. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3234, instruction 2493. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3241, instruction 2499. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3247, instruction 2504. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3334, instruction 2586. Performance may be slow.
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+
+*************************************
+Log started: Mon Nov 18 10:21:04 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1030, instruction 568. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1088, instruction 620. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1164, instruction 687. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1205, instruction 723. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1247, instruction 760. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1265, instruction 775. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1345, instruction 842. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1679, instruction 1134. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1686, instruction 1140. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1692, instruction 1145. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1783, instruction 1223. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2131, instruction 1529. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2138, instruction 1535. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2144, instruction 1540. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2207, instruction 1594. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2248, instruction 1630. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2290, instruction 1667. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2308, instruction 1682. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2388, instruction 1749. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2722, instruction 2041. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2729, instruction 2047. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2735, instruction 2052. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2826, instruction 2130. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3174, instruction 2436. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3181, instruction 2442. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3187, instruction 2447. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3274, instruction 2529. Performance may be slow.
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+
+*************************************
+Log started: Mon Nov 18 10:23:29 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1006, instruction 547. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1064, instruction 599. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1140, instruction 666. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1181, instruction 702. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1223, instruction 739. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1241, instruction 754. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1321, instruction 821. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1655, instruction 1113. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1662, instruction 1119. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1668, instruction 1124. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1759, instruction 1202. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2107, instruction 1508. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2114, instruction 1514. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2120, instruction 1519. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2183, instruction 1573. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2224, instruction 1609. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2266, instruction 1646. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2284, instruction 1661. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2364, instruction 1728. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2698, instruction 2020. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2705, instruction 2026. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2711, instruction 2031. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2802, instruction 2109. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3150, instruction 2415. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3157, instruction 2421. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3163, instruction 2426. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3250, instruction 2508. Performance may be slow.
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+
+*************************************
+Log started: Mon Nov 18 10:24:55 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1030, instruction 568. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1088, instruction 620. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1164, instruction 687. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1205, instruction 723. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1247, instruction 760. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1265, instruction 775. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1345, instruction 842. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1679, instruction 1134. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1686, instruction 1140. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1692, instruction 1145. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1783, instruction 1223. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2131, instruction 1529. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2138, instruction 1535. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2144, instruction 1540. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2207, instruction 1594. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2248, instruction 1630. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2290, instruction 1667. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2308, instruction 1682. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2388, instruction 1749. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2722, instruction 2041. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2729, instruction 2047. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2735, instruction 2052. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2826, instruction 2130. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3174, instruction 2436. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3181, instruction 2442. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3187, instruction 2447. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3274, instruction 2529. Performance may be slow.
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+
+***********************************
+Log ended: Mon Nov 18 10:26:52 2013
+
+
+***********************************
+
+
+*************************************
+Log started: Mon Nov 18 10:49:26 2013
+
+
+*************************************
+
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1033, instruction 569. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1091, instruction 621. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1167, instruction 688. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1208, instruction 724. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1250, instruction 761. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1268, instruction 776. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1348, instruction 843. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1682, instruction 1135. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1689, instruction 1141. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1695, instruction 1146. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 1786, instruction 1224. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2134, instruction 1530. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2141, instruction 1536. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2147, instruction 1541. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2210, instruction 1595. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2251, instruction 1631. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2293, instruction 1668. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2311, instruction 1683. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2391, instruction 1750. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2725, instruction 2042. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2732, instruction 2048. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2738, instruction 2053. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 2829, instruction 2131. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3177, instruction 2437. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3184, instruction 2443. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3190, instruction 2448. Performance may be slow.
+Warning: Cannot resolve instruction 225.
+Warning: Indexed temp could not be resolved on line 3277, instruction 2530. Performance may be slow.
+Assert:  No support for writes across 16 byte private UAV boundaries
+Assert:  No support for writes across 16 byte private UAV boundaries
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+
+Message: 	else
+
+Message: 	whileloop
+

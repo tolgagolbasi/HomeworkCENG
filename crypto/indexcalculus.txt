@@ -1,0 +1,55 @@
+indexcalcus := function(g,h,p)
+	basen:=Ceiling(Sqrt(Sqrt(p)));
+	base:=PrimesUpTo(NthPrime(basen));
+	maxp:=base[#base];
+	M:=[];
+	r:=0;
+	while #M lt #base+1 do
+		r:=r+1;
+                tr:=(g^r mod p);
+		fact:=Factorization(tr);
+		if (#fact gt 0) and(fact[#fact][1] le maxp) then
+			e:=[];
+			for i in [1..basen] do
+				e[i]:=0;
+			end for;
+			k:=0;
+			j:=1;
+			for i in fact do
+				while (j ne i[1]) do
+					k:=k+1;
+					j:=NextPrime(j);
+				end while;
+				e[k]:=i[2];
+			end for;
+			e:=Append(e,r);
+			N:=[];
+			N:=Append(M,e);
+			N:=Matrix(N);
+			N:=EchelonForm(N);
+			if NumberOfRows(RemoveZeroRows(N)) eq NumberOfRows(N) then
+				M:=Append(M,e);
+			end if;
+		end if;
+	end while;
+        M:=EchelonForm(Matrix(M));
+        rowm:=NumberOfRows(M);
+    	for s:=0 to 1000 do
+                tr:=(g^s)*h mod p;
+		fact:=Factorization(tr);
+		if (#fact gt 0) and (fact[#fact][1] le maxp) then
+			x:=0;
+                        k:=0;
+			j:=1;
+			for i in fact do
+				while(j lt i[1]) do
+					k:=k+1;
+					j:=NextPrime(j);
+				end while;
+ 				x:=x+(M[k][rowm]*i[2]);
+			end for;
+			return (x-s) mod (p-1);
+		end if;
+	end for;
+end function;
+indexcalcus(2,5,1019);

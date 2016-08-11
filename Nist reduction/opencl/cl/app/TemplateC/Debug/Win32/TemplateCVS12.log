@@ -1,0 +1,25 @@
+﻿Build started 22.8.2013 17:38:07.
+     1>Project "C:\Users\tolgag\Desktop\Nist reduction\opencl\cl\app\TemplateC\TemplateCVS12.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I"C:\Program Files (x86)\AMD APP\\include" /I"C:\Users\tolgag\Documents\AMD APP\\include" /ZI /nologo /W1 /WX- /Od /Oy- /D "WIN32" /D _DEBUG /D _CONSOLE /D "ATI_OS_WIN" /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NONSTDC_NO_DEPRECATE /GF- /Gm- /EHsc /RTC1 /MTd /GS /Gy- /fp:precise /fp:except- /Zc:wchar_t /Zc:forScope /GR /openmp- /Fo"Debug\Win32\\" /Fd"Debug\Win32\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt TemplateC.cpp
+         TemplateC.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\tolgag\Desktop\Modulo\opencl\cl\app\TemplateC\Debug\x86\TemplateC.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\AMD APP\\lib\x86" /LIBPATH:"C:\Users\tolgag\Documents\AMD APP\\lib\x86" OpenCL.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Debug\Win32\TemplateC.pdb" /ASSEMBLYDEBUG:DISABLE /SUBSYSTEM:CONSOLE /HEAP:"0","0" /STACK:"0","0" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\tolgag\Desktop\Modulo\opencl\cl\app\TemplateC\Debug\x86\TemplateC.lib" /MACHINE:X86 Debug\Win32\TemplateC.obj
+         TemplateCVS12.vcxproj -> C:\Users\tolgag\Desktop\Modulo\opencl\cl\app\TemplateC\Debug\x86\TemplateC.exe
+       PostBuildEvent:
+         copy AddLow.cl "C:\Users\tolgag\Desktop\Modulo\opencl\cl\app\TemplateC\Debug\x86\"\AddLow.cl
+         copy AddMulte.cl "C:\Users\tolgag\Desktop\Modulo\opencl\cl\app\TemplateC\Debug\x86\"\AddMulte.cl
+         copy Reduce.cl "C:\Users\tolgag\Desktop\Modulo\opencl\cl\app\TemplateC\Debug\x86\"\Reduce.cl
+         copy Multiply.cl "C:\Users\tolgag\Desktop\Modulo\opencl\cl\app\TemplateC\Debug\x86\"\Multiply.cl
+         copy ScalarHighMultiply.cl "C:\Users\tolgag\Desktop\Modulo\opencl\cl\app\TemplateC\Debug\x86\"\ScalarHighMultiply.cl
+         :VCEnd
+                 1 file(s) copied.
+                 1 file(s) copied.
+                 1 file(s) copied.
+                 1 file(s) copied.
+                 1 file(s) copied.
+     1>Done Building Project "C:\Users\tolgag\Desktop\Nist reduction\opencl\cl\app\TemplateC\TemplateCVS12.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.39

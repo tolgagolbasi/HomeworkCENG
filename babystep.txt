@@ -1,0 +1,27 @@
+Find  := function(y,T,m)
+	for x in [1..m] do
+		if T[x][1] eq y then
+			return x-1; 
+		end if;
+	end for;
+	return 0;
+end function;
+
+babystepgiantstep := function(a,b,p)
+    m:=Ceiling(Sqrt(p-1));
+    T:=[];
+    for j in [0..m-1] do
+        T:=Append(T,[a^j mod p,j]);
+    end for;
+    a1:=InverseMod(a^m,p) mod p;
+    y:=b;
+    for i in [0..m-1] do
+	j:=Find(y,T,m);
+        if  j ne 0 then
+	    return i*m+j;
+        else 
+	    y:=y*a1 mod p;
+        end if;
+    end for;
+end function;
+babystepgiantstep(2,5,1019); 

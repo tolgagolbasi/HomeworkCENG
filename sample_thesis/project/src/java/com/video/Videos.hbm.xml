@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated May 28, 2012 4:26:31 PM by Hibernate Tools 3.2.1.GA -->
+<hibernate-mapping>
+	<class catalog="senior_project" name="com.video.Videos" table="videos">
+		<id name="videoId" type="java.lang.Integer">
+			<column name="VIDEO_ID"/>
+			<generator class="identity"/>
+		</id>
+		<property name="videoName" type="string">
+			<column length="100" name="VIDEO_NAME" not-null="true"/>
+		</property>
+		<property name="totalVotes" type="int">
+			<column name="TOTAL_VOTES" not-null="true"/>
+		</property>
+		<property name="average" type="float">
+			<column name="AVERAGE" not-null="true" precision="12" scale="0"/>
+		</property>
+		<property name="uploadTime" type="timestamp">
+			<column length="19" name="UPLOAD_TIME" not-null="true"/>
+		</property>
+		<property name="userId" type="int">
+			<column name="USER_ID" not-null="true"/>
+		</property>
+		<property name="status" type="int">
+			<column name="STATUS" not-null="true"/>
+		</property>
+	</class>
+</hibernate-mapping>
